@@ -23,15 +23,16 @@ class GetDB(object):
             self.cur.execute(sql)
             self.conn.commit()
         except Exception as e:
-            logging.info(str(e))
+            logging.error(str(e))
             self.conn.rollback()
 
     def check_title(self, name):
-        result = self.query("select * from title where name = '{0}';".format(name))
+        result = self.query("select * from user where name = '{0}';".format(name))
         return True if result else False
-
-    def add_title(self, name, url):
-        self.exec("insert into title(name, url) values('{0}', '{1}');".format(name, url))
 
     def check_all(self):
         result = self.query("select * from title;")
+        return result
+
+    def add_title(self, name, url):
+        self.exec("insert into title(name, url) values('{0}', '{1}');".format(name, url))
