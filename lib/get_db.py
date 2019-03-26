@@ -5,9 +5,9 @@ import sys
 sys.path.append("..")
 from config.config import *
 
-class DB(object):
+class GetDB(object):
     def __init__(self):
-        self.conn = pymysql.connect(db_host, db_user, db_passwd, db)
+        self.conn = pymysql.connect(db_host, db_user, db_passwd, db_table)
         self.cur = self.conn.cursor()
 
     def __del__(self):
@@ -32,3 +32,6 @@ class DB(object):
 
     def add_title(self, name, url):
         self.exec("insert into title(name, url) values('{0}', '{1}');".format(name, url))
+
+    def check_all(self):
+        result = self.query("select * from title;")

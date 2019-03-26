@@ -30,5 +30,5 @@ logging.basicConfig(level = logging.DEBUG,
 db_host = "localhost"
 db_user = "root"
 db_passwd = "Raspberry2019"
-db = "6vhao_db"
+db_table = "6vhao_db"
 table_title = "title"
