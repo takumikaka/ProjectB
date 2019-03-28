@@ -7,7 +7,8 @@ prj_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 log_file = os.path.join(prj_path, "log", "log.txt")
 
-url = "http://www.6vhao.tv"
+url_home = "http://www.6vhao.tv"
+url_top = url_home + "/top.html"
 
 title_list = ["喜剧片", "动作片", "爱情片", "恐怖片", "科幻片", "战争片", "纪录片", "故事片", "动画片", "国剧", "日韩剧", "欧美剧", "3D电影", "综艺"]
 

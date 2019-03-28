@@ -1,15 +1,1624 @@
-[2019-03-26 11: 29: 19] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
-[2019-03-26 11: 29: 20] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET / HTTP/1.1" 200 15034
-[2019-03-26 11: 29: 20] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
-[2019-03-26 11: 29: 20] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET / HTTP/1.1" 200 15034
-[2019-03-26 11: 29: 20] INFO [run: run.py 12] {'喜剧片': 'http://www.6vhao.tv/dy1/', '动作片': 'http://www.6vhao.tv/dy2/', '爱情片': 'http://www.6vhao.tv/dy3/', '恐怖片': 'http://www.6vhao.tv/dy5/', '科幻片': 'http://www.6vhao.tv/dy6/', '战争片': 'http://www.6vhao.tv/zzp/', '纪录片': 'http://www.6vhao.tv/jlp/', '故事片': 'http://www.6vhao.tv/jddy/', '动画片': 'http://www.6vhao.tv/dy4/', '国剧': 'http://www.6vhao.tv/dlz/', '日韩剧': 'http://www.6vhao.tv/rj/', '欧美剧': 'http://www.6vhao.tv/mj/', '3D电影': 'http://www.6vhao.tv/3d/', '综艺': 'http://www.6vhao.tv/zy/'}
-[2019-03-26 11: 40: 34] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
-[2019-03-26 11: 40: 34] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET / HTTP/1.1" 200 15034
-[2019-03-26 11: 40: 34] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
-[2019-03-26 11: 40: 34] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET / HTTP/1.1" 200 15034
-[2019-03-26 11: 41: 42] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
-[2019-03-26 11: 41: 42] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET / HTTP/1.1" 200 15034
-[2019-03-26 11: 50: 35] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
-[2019-03-26 11: 50: 35] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET / HTTP/1.1" 200 15034
-[2019-03-26 11: 53: 20] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
-[2019-03-26 11: 53: 20] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET / HTTP/1.1" 200 15034
+[2019-03-27 18: 57: 47] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 47] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /top.html HTTP/1.1" 200 7309
+[2019-03-27 18: 57: 47] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 47] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /top.html HTTP/1.1" 200 7309
+[2019-03-27 18: 57: 47] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 48] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /top.html HTTP/1.1" 200 7309
+[2019-03-27 18: 57: 48] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 48] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /top.html HTTP/1.1" 200 7309
+[2019-03-27 18: 57: 48] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 48] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-27/35924.html HTTP/1.1" 200 7482
+[2019-03-27 18: 57: 48] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 49] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-27/35924.html HTTP/1.1" 200 7482
+[2019-03-27 18: 57: 49] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 49] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-27/35924.html HTTP/1.1" 200 7482
+[2019-03-27 18: 57: 49] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 49] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:H5YQS7MTUE6ZIZB6N3K7CV6TNQOGV5TT&dn=%e9%9b%b7%e9%9c%86%e4%b9%8b%e8%b7%af%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%20%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 49] INFO [log_info: log_info.py 8] 电影名: 雷霆之路
+[2019-03-27 18: 57: 49] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy1/2019-03-27/35924.html
+[2019-03-27 18: 57: 49] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　雷霆之路
+◎片　　名　Thunder Road
+◎年　　代　2018
+◎产　　地　美国
+◎类　　别　剧情 / 喜剧
+◎语　　言　英语
+◎字　　幕　中英双字
+◎上映日期　2018-03-12(西南偏南电影节)
+◎IMDb评分　7.1/10 from 5464 users
+◎豆瓣评分　6.7/10 from 296 users
+◎片　　长　92分钟
+◎导　　演　吉姆·卡明斯 Jim Cummings
+◎编　　剧　吉姆·卡明斯 Jim Cummings
+◎主　　演　吉姆·卡明斯 Jim Cummings
+　　　　　　Kendal Farr
+　　　　　　Nican Robinson
+　　　　　　乔斯琳·德波尔 Jocelyn DeBoer
+　　　　　　Chelsea Edmundson
+　　　　　　梅肯·布莱尔 Macon Blair
+　　　　　　Ammie Leonards
+　　　　　　比尔·怀斯 Bill Wise
+　　　　　　Jordan Ray Fox
+　　　　　　弗兰克·莫斯利 Frank Mosley
+　　　　　　Jacqueline Doke
+　　　　　　克里斯·杜贝克 Chris Doubek
+　　　　　　特里斯坦·里格斯 Tristan Riggs
+　　　　　　William Kevin Olliff
+　　　　　　马歇尔·奥尔曼 Marshall Allman
+　　　　　　Hallie Anderson
+　　　　　　布莱恩·卡瑟利 Bryan Casserly
+　　　　　　Mary Deese
+　　　　　　Dustin Hahn
+　　　　　　格雷戈瑞·凯利 Gregory Kelly
+[2019-03-27 18: 57: 49] INFO [log_info: log_info.py 11] 电影简介: 
+◎简　　介
+　　故事描写一个警察的失意人生，从失去母亲到失去女儿监护权再到失去工作，一步步走向自我毁灭，却又戏剧性得到救赎，用神经质式的黑色幽默，完成对中产阶级的戏谑和自嘲。
+[2019-03-27 18: 57: 49] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:H5YQS7MTUE6ZIZB6N3K7CV6TNQOGV5TT&dn=%e9%9b%b7%e9%9c%86%e4%b9%8b%e8%b7%af%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%20%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 49] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 49] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-27/35923.html HTTP/1.1" 200 7551
+[2019-03-27 18: 57: 49] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 49] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-27/35923.html HTTP/1.1" 200 7551
+[2019-03-27 18: 57: 49] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 50] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-27/35923.html HTTP/1.1" 200 7551
+[2019-03-27 18: 57: 50] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 50] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 50] INFO [log_info: log_info.py 8] 电影名: 那条河
+[2019-03-27 18: 57: 50] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-27/35923.html
+[2019-03-27 18: 57: 50] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　The Secret of the River
+◎片　　名　那条河
+◎年　　代　2018
+◎产　　地　中国大陆
+◎类　　别　剧情/爱情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2018-09-07(中国大陆)
+◎片　　长　82分钟
+◎导　　演　张锐 Rui Zhang
+◎编　　剧　林梦楚 / 张敏俊
+◎主　　演　王庆祥 Qingxiang Wang
+　　　　  　迟蓬 Peng Chi
+　　　　  　张杨果而 Guo'er Zhangyang
+　　　　  　徐囡楠 Nannan Xu
+　　　　  　宋歌 Ge Song
+[2019-03-27 18: 57: 50] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 57: 50] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 57: 50] ERROR [exec: get_db.py 26] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'er Zhangyang\r\n\u3000\u3000\u3000\u3000\xa0 \u3000徐囡楠 Nannan Xu\r\n\u3000\u3000\u3000\u3000\xa0 \u3000宋歌 Ge' at line 1")
+[2019-03-27 18: 57: 50] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 50] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-27/35922.html HTTP/1.1" 200 6625
+[2019-03-27 18: 57: 50] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 50] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-27/35922.html HTTP/1.1" 200 6625
+[2019-03-27 18: 57: 50] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 51] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-27/35922.html HTTP/1.1" 200 6625
+[2019-03-27 18: 57: 51] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 51] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 51] INFO [log_info: log_info.py 8] 电影名: 超级洛佩兹
+[2019-03-27 18: 57: 51] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy1/2019-03-27/35922.html
+[2019-03-27 18: 57: 51] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　超级洛佩兹 / Superlópez / 西班牙超人
+◎片　　名　Superlópez
+◎年　　代　2018
+◎产　　地　西班牙
+◎类　　别　喜剧
+◎语　　言　西班牙语
+◎字　　幕　中字
+◎片　　长　107分钟
+◎上映日期　2018-11-23(西班牙)
+◎IMDb评分　5.3/10 from 701 users
+◎导　　演　哈维尔·鲁伊斯·卡尔德拉 Javier Ruiz Caldera
+◎编　　剧　博尔哈·科贝亚加 Borja Cobeaga
+　　　　　　Jan
+　　　　　　迭戈·圣何塞 Diego San José
+◎主　　演　丹尼·罗维拉 Dani Rovira
+　　　　　　玛丽维尔·贝尔杜 Maribel Verdú
+　　　　　　亚历山德拉·希门内斯 Alexandra Jiménez
+◎简　　介
+　　胡安·洛佩斯（JuanLópez）是一名普通的匿名办公室工作人员，他决定让他成为第一位西班牙超级英雄。
+[2019-03-27 18: 57: 51] INFO [log_info: log_info.py 11] 电影简介: 
+[2019-03-27 18: 57: 51] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 57: 51] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 51] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jlp/2019-03-27/35921.html HTTP/1.1" 200 7628
+[2019-03-27 18: 57: 51] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 51] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jlp/2019-03-27/35921.html HTTP/1.1" 200 7628
+[2019-03-27 18: 57: 51] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 52] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jlp/2019-03-27/35921.html HTTP/1.1" 200 7628
+[2019-03-27 18: 57: 52] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 52] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 52] INFO [log_info: log_info.py 8] 电影名: 燃点
+[2019-03-27 18: 57: 52] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jlp/2019-03-27/35921.html
+[2019-03-27 18: 57: 52] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　Startups
+◎片　　名　燃点
+◎年　　代　2019
+◎产　　地　中国大陆
+◎类　　别　纪录片
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2019-01-11(中国大陆)
+◎豆瓣评分　6.4/10 from 3,927 users
+◎片　　长　107分钟
+◎导　　演　关�L Xiu Guan / 萧屺楠 Qinan Xiao
+◎主　　演　罗永浩 Yong Hao Luo
+　　　　  　戴威 Wei Dai
+　　　　  　张颖  Ying Zhang
+　　　　  　Papi酱 Yilei Jiang
+　　　　  　傅盛 Sheng Fu
+　　　　  　安传东 Chuandong An
+　　　　  　金星 Xing Jin
+　　　　  　马薇薇 Weiwei Ma
+　　　　  　徐小平 Xiaoping Xu
+　　　　  　唐岩 Yan Tang
+　　　　  　许单单 Dandan Xu
+　　　　  　孙海涛 Haitao Sun
+　　　　  　孟雷 Lei Meng
+　　　　  　潘飞 Fei Pan
+[2019-03-27 18: 57: 52] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 57: 52] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 57: 52] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 52] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-26/35919.html HTTP/1.1" 200 7740
+[2019-03-27 18: 57: 52] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 52] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-26/35919.html HTTP/1.1" 200 7740
+[2019-03-27 18: 57: 52] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 53] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-26/35919.html HTTP/1.1" 200 7740
+[2019-03-27 18: 57: 53] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 53] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:7JSXPRJLERONFRASH7RHBJR64JPRLJAE&dn=%e6%b1%a1%e5%9e%a2%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 53] INFO [log_info: log_info.py 8] 电影名: 污垢
+[2019-03-27 18: 57: 53] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-26/35919.html
+[2019-03-27 18: 57: 53] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　The Dirt
+◎片　　名　污垢/克鲁小丑的摇滚坏生活(台)/尘土
+◎年　　代　2019
+◎产　　地　美国
+◎类　　别　音乐/传记
+◎语　　言　英语
+◎字　　幕　中英双字
+◎片　　长　107分钟
+◎上映日期　2019-03-22(美国)
+◎IMDb评分　7.5/10 from 2435 users
+◎导　　演　杰夫·特里梅因
+◎主　　演　道格拉斯·布斯
+　　　　　　机关枪凯利
+　　　　　　丹尼尔·韦伯
+　　　　　　伊万·瑞恩
+　　　　　　约书亚·米克尔
+　　　　　　莱文·兰宾
+　　　　　　Kabby Borders
+　　　　　　Kristin Brock
+[2019-03-27 18: 57: 53] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　说唱歌手MachineGunKelly加盟莫特利·克鲁乐队传记片《尘土》(TheDirt)，饰演创立者之一TommyLee，道格拉斯·布斯将饰演另一位创立者NikkiSixx。《蠢蛋搞怪秀》导演JeffTremaine执导，RichWilkes(《极限特工》)、TomKapinos(《路西法》)和AmandaAdelson编剧写本，Netflix制作和发行。
+　　影片基于自传《TheDirt:ConfessionsoftheWorld’sMostNotoriousRockBand》，聚焦该重金属乐队在80年代的崛起。
+　　莫特利·克鲁乐队1981年1月成立于洛杉矶，组员包括贝斯手NikkiSixx、鼓手TommyLee、主唱VinceNeil和吉他手MickMars。同年11月发行了首张专辑《TooFastf...
+[2019-03-27 18: 57: 53] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:7JSXPRJLERONFRASH7RHBJR64JPRLJAE&dn=%e6%b1%a1%e5%9e%a2%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 53] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 53] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-26/35918.html HTTP/1.1" 200 7771
+[2019-03-27 18: 57: 53] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 53] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-26/35918.html HTTP/1.1" 200 7771
+[2019-03-27 18: 57: 53] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 54] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-26/35918.html HTTP/1.1" 200 7771
+[2019-03-27 18: 57: 54] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 54] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:FI2CAOHGW4Z55653BCXHXULIZ5BTNCIB&dn=%e4%b8%96%e7%95%8c%e6%9c%80%e9%95%bf%e7%9a%84%e7%85%a7%e7%89%87%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 54] INFO [log_info: log_info.py 8] 电影名: 世界最长的照片
+[2019-03-27 18: 57: 54] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-26/35918.html
+[2019-03-27 18: 57: 54] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　世界最长的照片
+◎片　　名　世界でいちばん�Lい写真/The World‘s Longest Photograph
+◎年　　代　2018
+◎产　　地　日本
+◎类　　别　剧情
+◎语　　言　日语
+◎字　　幕　中字
+◎导　　演　草野翔吾
+◎主　　演　高杉真宙
+　　　　　　武田梨奈
+　　　　　　松本穗香
+　　　　　　吉泽悠
+[2019-03-27 18: 57: 54] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 57: 54] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:FI2CAOHGW4Z55653BCXHXULIZ5BTNCIB&dn=%e4%b8%96%e7%95%8c%e6%9c%80%e9%95%bf%e7%9a%84%e7%85%a7%e7%89%87%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 54] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 54] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2018-12-31/35451.html HTTP/1.1" 200 7934
+[2019-03-27 18: 57: 54] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 54] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2018-12-31/35451.html HTTP/1.1" 200 7934
+[2019-03-27 18: 57: 54] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 55] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2018-12-31/35451.html HTTP/1.1" 200 7934
+[2019-03-27 18: 57: 55] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 55] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:5A7ZRQ57GSKRAOVIWSHGNF3VCEMWI4AO&dn=%e7%99%bd%e5%b0%8f%e5%a7%90%2e1080p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 55] INFO [log_info: log_info.py 8] 电影名: 白小姐
+[2019-03-27 18: 57: 55] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2018-12-31/35451.html
+[2019-03-27 18: 57: 55] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　白小姐 / Miss Baek / Miss 白
+◎片　　名　미쓰백
+◎年　　代　2018
+◎产　　地　韩国
+◎类　　别　剧情
+◎语　　言　韩语
+◎字　　幕　中字
+◎上映日期　2018-10-11(韩国)
+◎IMDb评分　6.5/10 from 58 users
+◎豆瓣评分　7.1/10 from 1038 users
+◎片　　长　98分钟
+◎导　　演　李智媛 Ji-won Lee
+◎编　　剧　李智媛 Ji-won Lee
+◎主　　演　韩智敏 Ji-min Han
+　　　　　　金诗雅 Si-ah Kim
+　　　　　　李熙俊 Hee-jun Lee
+　　　　　　权素贤 So-hyun Kwon
+　　　　　　白秀长 Soo-Jang Baek
+　　　　　　金善映 Seon-yeong Kim
+　　　　　　全锡浩 Jun Suk-Ho
+　　　　　　李周英 Lee Joo-young
+　　　　　　赵敏俊 Min-joon Jo
+　　　　　　金俊范 Joon-bum Kim
+　　　　　　郑京虎 Kyeong-ho Jeon
+　　　　　　金浩昌 Ho Chang Kim
+　　　　　　刘贞莱 Jung-rae Yoo
+　　　　　　尹颂雅 Songa Yun
+　　　　　　琴东贤 Geum Dong-hyeon
+　　　　　　李静恩 Jung Eun Lee
+　　　　　　张荣男 Young-nam Jang
+[2019-03-27 18: 57: 55] INFO [log_info: log_info.py 11] 电影简介: 
+◎简　　介 
+[2019-03-27 18: 57: 55] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:5A7ZRQ57GSKRAOVIWSHGNF3VCEMWI4AO&dn=%e7%99%bd%e5%b0%8f%e5%a7%90%2e1080p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 55] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 55] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-26/35917.html HTTP/1.1" 200 6070
+[2019-03-27 18: 57: 55] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 55] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-26/35917.html HTTP/1.1" 200 6070
+[2019-03-27 18: 57: 55] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 56] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-26/35917.html HTTP/1.1" 200 6070
+[2019-03-27 18: 57: 56] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 56] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:QRZX5OOFXOEUAQHQBR6NSEIBFP22QHRW&dn=Hello%ef%bc%81%e6%a0%91%e5%85%88%e7%94%9f%2e1080p%2eHD%e5%9b%bd%e8%af%ad%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 56] INFO [log_info: log_info.py 8] 电影名: Hello树先生
+[2019-03-27 18: 57: 56] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy1/2019-03-26/35917.html
+[2019-03-27 18: 57: 56] INFO [log_info: log_info.py 10] 电影信息: ◎中 文 名　Hello！树先生/树
+◎英 文 名　Mr. Tree 
+◎年　　代　2011
+◎国　　家　中国
+◎类　　别　喜剧/奇幻
+◎语　　言　国语
+◎字　　幕　中文/英文
+◎IMDB评分　6.6/10 from 174 users 
+◎豆瓣评分　7.6/10 75652人评价
+◎文件格式　高清1280版BD-RMVB
+◎视频尺寸　1280 x 720
+◎文件大小　1CD 727MB
+◎片　　长　96分钟
+◎导　　演　韩杰 Jie Han
+◎主　　演　王宝强 Baoqiang Wang
+　　　　　　谭卓 Zhuo Tan
+　　　　　　何洁 Jie He
+　　　　　　王大治 Dazhi Wang
+　　　　　　王亚彬
+　　　　　　李京怡 Jingyi Li
+　　　　　　白培将 Peijiang Bai
+
+
+◎简　　介
+
+    他的名字叫“树”，他的村庄异常寒冷，积雪难化。
+　　“树”还是单身，在村里的汽修铺工作。他常去村口的酒馆和朋友喝酒，一起长大的伙伴，有人开着好车成了煤老板，有人远在省城办私立学校，有人还在种地。聚会的时候，如果没有被人取笑，“树”就沉默着，象旷野里被人忘记的一棵树。
+　　村子里的煤矿日夜开采，因此地面下沉，整个村庄不得不迁往别处。“树”干脆远走他乡去了省城。他在学校打工，这里的孩子让他想起自己的童年。“树”的父亲和哥哥在他小时候就离开了人世，他常梦到自己的父亲，却从来梦不到哥哥。
+　　“树”决定回到故乡，去面对难以决定的爱情。他与聋哑女孩小梅一见钟情，但又觉得真在一起生活会有很多麻烦。他们学会用手机短信交流，这让“树”下了结婚的决心。婚礼前夜，“树”终于梦到了哥哥一一在寒冷冬天，在“树”的婚礼上，哥哥为他唱了一首八十年代的流行歌《冬天里的一把火》。渐渐地，“树”开始能捕捉到自己灵光一闪的思想。村里发生的很多事情都验证了他的预言，“树”成为受人尊敬的“预言家”，被人尊称为“树先生”。
+
+
+◎影片截图
+[2019-03-27 18: 57: 56] INFO [log_info: log_info.py 11] 电影简介: 
+
+
+[2019-03-27 18: 57: 56] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:QRZX5OOFXOEUAQHQBR6NSEIBFP22QHRW&dn=Hello%ef%bc%81%e6%a0%91%e5%85%88%e7%94%9f%2e1080p%2eHD%e5%9b%bd%e8%af%ad%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 56] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 56] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-26/35916.html HTTP/1.1" 200 5804
+[2019-03-27 18: 57: 56] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 56] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-26/35916.html HTTP/1.1" 200 5804
+[2019-03-27 18: 57: 56] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 57] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-26/35916.html HTTP/1.1" 200 5804
+[2019-03-27 18: 57: 57] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 57] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:AU4U7SOZ7LBDNLINKQTEEPJHAUNMUBRU&dn=%e5%bf%a0%e7%8a%ac%e6%83%85%e7%bc%98%2e1080p%2eHD%e5%9b%bd%e8%af%ad%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 57] INFO [log_info: log_info.py 8] 电影名: 忠犬情缘
+[2019-03-27 18: 57: 57] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy1/2019-03-26/35916.html
+[2019-03-27 18: 57: 57] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　忠犬情缘 
+◎年　　代　2017 
+◎产　　地　中国大陆
+◎类　　别　剧情/喜剧/爱情 
+◎语　　言　汉语普通话 
+◎字　　幕　中字 
+◎上映日期　2017-07-30(上海国际绿色电影周) 
+◎导　　演　肖言 
+◎编　　剧　楚原
+◎主　　演　陆进
+　　　　　　周子熙
+　　　　　　钟卓言
+　　　　　　周婧涵
+　　　　　　海鑫
+[2019-03-27 18: 57: 57] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 57: 57] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:AU4U7SOZ7LBDNLINKQTEEPJHAUNMUBRU&dn=%e5%bf%a0%e7%8a%ac%e6%83%85%e7%bc%98%2e1080p%2eHD%e5%9b%bd%e8%af%ad%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 57] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 57] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-26/35915.html HTTP/1.1" 200 5465
+[2019-03-27 18: 57: 57] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 57] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-26/35915.html HTTP/1.1" 200 5465
+[2019-03-27 18: 57: 57] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 58] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-26/35915.html HTTP/1.1" 200 5465
+[2019-03-27 18: 57: 58] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 58] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:HKLZFXUHQHQ2ATKVA5NJ4HKKZMFOX7MU&dn=%e5%97%9c%e8%a1%80%e5%b0%86%e5%86%9b2%e7%99%bd%e7%9a%ae%e5%b0%91%e5%a5%b3%2e1080p%2eHD%e5%9b%bd%e8%af%ad%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 58] INFO [log_info: log_info.py 8] 电影名: 嗜血将军2白皮少女
+[2019-03-27 18: 57: 58] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy2/2019-03-26/35915.html
+[2019-03-27 18: 57: 58] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　嗜血将军2白皮少女
+◎片　　名　嗜血将军2白皮少女
+◎年　　代　2019
+◎产　　地　中国大陆
+◎类　　别　动作/惊悚/悬疑
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎片　　长　86分钟
+◎上映日期　2019-03-19(中国大陆)
+◎导　　演　周仲
+◎制　　片　楼捷
+◎主　　演　张天其
+　　　　　　李小娇
+　　　　　　闵政
+　　　　　　庄夏播
+[2019-03-27 18: 57: 58] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 57: 58] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:HKLZFXUHQHQ2ATKVA5NJ4HKKZMFOX7MU&dn=%e5%97%9c%e8%a1%80%e5%b0%86%e5%86%9b2%e7%99%bd%e7%9a%ae%e5%b0%91%e5%a5%b3%2e1080p%2eHD%e5%9b%bd%e8%af%ad%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 58] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 58] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-26/35914.html HTTP/1.1" 200 5437
+[2019-03-27 18: 57: 58] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 59] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-26/35914.html HTTP/1.1" 200 5437
+[2019-03-27 18: 57: 59] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 59] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-26/35914.html HTTP/1.1" 200 5437
+[2019-03-27 18: 57: 59] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 57: 59] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:XN243MRQAECQWV22M6SKP2UCYBS2Q4ZS&dn=%e4%b8%80%e7%94%9f%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 59] INFO [log_info: log_info.py 8] 电影名: 一生
+[2019-03-27 18: 57: 59] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy3/2019-03-26/35914.html
+[2019-03-27 18: 57: 59] INFO [log_info: log_info.py 10] 电影信息: 一生 Life Itself (2018) /生命中的美好意外(台) / 生活本身 / 人生如戏
+导演: 丹·福格尔曼
+编剧: 丹·福格尔曼
+主演: 奥利维亚·库克 / 奥斯卡·伊萨克 / 奥利维亚·王尔德 / 塞缪尔·杰克逊 / 安东尼奥·班德拉斯
+类型: 剧情 / 爱情
+制片国家/地区: 美国
+语言: 英语
+字幕: 中英双字
+上映日期: 2018-09-08(多伦多电影节) / 2018-09-21(美国)
+IMDb评分: 6.5/10 7,888人评价
+豆瓣评分：6.8/10 264人评价
+[2019-03-27 18: 57: 59] INFO [log_info: log_info.py 11] 电影简介: 一生的剧情简介
+　　奥斯卡·伊萨克将出演新片《一生》(Life Itself，暂译)，导演丹·福格尔曼负责编剧、执导，2017年春天开始制作。背景在纽约的西班牙郊区，奥斯卡·伊萨克饰演的角色将串联起几代人的爱情故事。
+[2019-03-27 18: 57: 59] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:XN243MRQAECQWV22M6SKP2UCYBS2Q4ZS&dn=%e4%b8%80%e7%94%9f%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66e%2ecc%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 57: 59] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 57: 59] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-12-17/35375.html HTTP/1.1" 200 9107
+[2019-03-27 18: 57: 59] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 00] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-12-17/35375.html HTTP/1.1" 200 9107
+[2019-03-27 18: 58: 00] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 00] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-12-17/35375.html HTTP/1.1" 200 9107
+[2019-03-27 18: 58: 00] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 00] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:PQWHZU5E4IXDD76STTNPBJ7UY6ZC7ANB&dn=%e6%96%97%e7%bd%97%e5%a4%a7%e9%99%8601%2d30&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 00] INFO [log_info: log_info.py 8] 电影名: 斗罗大陆动画版
+[2019-03-27 18: 58: 00] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy4/2018-12-17/35375.html
+[2019-03-27 18: 58: 00] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　斗罗大陆动画版 第二季
+◎片　　名　斗罗大陆 第二季
+◎年　　代　2018
+◎产　　地　中国大陆
+◎类　　别　剧情 / 动画 / 奇幻
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2018-12-01(中国大陆)
+◎豆瓣评分　7.2/10 from 5539 users
+◎集　　数　26
+◎片　　长　20分钟
+◎导　　演　沈乐平 Leping Shen
+◎编　　剧　沈乐平 Leping Shen / 唐家三少 Wei Zhang / 毛天耘 / 留安翊 / 吴若冰 / 沈欢愉 / 李思萦 / 杨伟典 / 赵亮
+◎主　　演　沈磊 Shen Lei
+　　　　　　程玉珠 Yuzhu Cheng
+　　　　　　黄翔宇
+　　　　　　王肖兵 Xiaobing Wang
+　　　　　　倪康 Kang Ni
+　　　　　　赵乾景 Qianjing Zhao
+　　　　　　吴磊 Lei Wu
+　　　　　　张琦 Qi Zhang
+　　　　　　秦紫翼
+◎简　　介
+　　唐门外门弟子唐三，因偷学内门绝学为唐门所不容，跳崖明志时却发现没有死，反而以另外一个身份来到了另一个世界，一个属于武魂的世界，名叫斗罗大陆。这里没有魔法，没有斗气，没有武术，却有神奇的武魂。这里的每个人，在自己六岁的时候，都会在武魂殿中令武魂觉醒。武魂有动物，有植物，有器物，武魂可以辅助人们的日常生活。而其中一些特别出色的武魂却可以用来修炼并进行战斗，这个职业，是斗罗大陆上最为强大也是最荣耀的职业“魂师”。
+小小的唐三在圣魂村开始了他的魂师修炼之路，并萌生了振兴唐门的梦想。当唐门暗器来到斗罗大陆，当唐三武魂觉醒，他能否在这片武魂的世界再铸唐门的辉煌？
+[2019-03-27 18: 58: 00] INFO [log_info: log_info.py 11] 电影简介: 【下载地址】
+[2019-03-27 18: 58: 00] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:PQWHZU5E4IXDD76STTNPBJ7UY6ZC7ANB&dn=%e6%96%97%e7%bd%97%e5%a4%a7%e9%99%8601%2d30&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 00] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 00] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-25/35910.html HTTP/1.1" 200 7161
+[2019-03-27 18: 58: 00] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 01] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-25/35910.html HTTP/1.1" 200 7161
+[2019-03-27 18: 58: 01] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 01] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-25/35910.html HTTP/1.1" 200 7161
+[2019-03-27 18: 58: 01] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 01] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:KBIANTBPSI3JLTR6PCJD7U5FX3U3QQFF&dn=%e4%b8%89%e6%ac%a1%e5%85%83%e5%a5%b3%e5%8f%8b%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 01] INFO [log_info: log_info.py 8] 电影名: 三次元女友
+[2019-03-27 18: 58: 01] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy3/2019-03-25/35910.html
+[2019-03-27 18: 58: 01] INFO [log_info: log_info.py 10] 电影信息: ◎简　　介 
+[2019-03-27 18: 58: 01] INFO [log_info: log_info.py 11] 电影简介: 　　筒井光（佐野勇斗 饰），是个只喜爱游戏动漫的高中生，奉二次元世界中的动画女主角魔法少女为神。某天因为迟到而要和校内的现充美少女，五十岚色叶（中条彩未 饰）一起打扫游泳池，色叶突然向光告白并开始交往，这消息冲击着整个校园，大家都对宅男配现充美女感到超不协调和不快，光为了挽回大家对他的看法，努力去打破自身交际能力的极限。
+
+
+[2019-03-27 18: 58: 01] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:KBIANTBPSI3JLTR6PCJD7U5FX3U3QQFF&dn=%e4%b8%89%e6%ac%a1%e5%85%83%e5%a5%b3%e5%8f%8b%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 01] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 01] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-01-14/35548.html HTTP/1.1" 200 9024
+[2019-03-27 18: 58: 01] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 02] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-01-14/35548.html HTTP/1.1" 200 9024
+[2019-03-27 18: 58: 02] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 02] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-01-14/35548.html HTTP/1.1" 200 9024
+[2019-03-27 18: 58: 02] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 02] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 02] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:N7HVRO3UYIQQWDU7QQOYJ25TIBKECELM&dn=dhf%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 02] INFO [log_info: log_info.py 8] 电影名: 大黄蜂
+[2019-03-27 18: 58: 02] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy6/2019-01-14/35548.html
+[2019-03-27 18: 58: 02] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　Bumblebee
+◎片　　名　大黄蜂/大黄蜂大电影/大黄蜂独立电影/变形金刚外传：大黄蜂/变形金刚外传大黄蜂/Brighton Falls
+◎年　　代　2018
+◎产　　地　美国
+◎类　　别　动作/科幻/冒险
+◎语　　言　英语
+◎字　　幕　中英双字
+◎片　　长　114分钟
+◎上映日期　2019-01-04(中国大陆)/2018-12-21(美国)
+◎IMDb评分　7.3/10 from 24646 users
+◎豆瓣评分　7.5/10 from 25503 users
+◎导　　演　特拉维斯·奈特
+◎主　　演　海莉·斯坦菲尔德
+　　　　　　约翰·塞纳
+　　　　　　小豪尔赫·兰登伯格
+　　　　　　杰森·德鲁克
+　　　　　　贾斯汀·塞洛克斯
+　　　　　　安吉拉·贝塞特
+　　　　　　帕梅拉·阿德龙
+　　　　　　迪伦·奥布莱恩
+　　　　　　梅金·普莱斯
+　　　　　　肯尼斯·崔
+　　　　　　彼特·库伦
+　　　　　　玛塞拉·布拉吉奥
+　　　　　　格蕾丝·达斯恩妮
+　　　　　　约翰·奥提兹
+　　　　　　兰·卡琉
+　　　　　　瓦内萨·罗斯
+　　　　　　里卡多·霍约斯
+　　　　　　蓝尼·雅各布森
+　　　　　　蕾切尔·克劳
+　　　　　　格林·特鲁曼
+　　　　　　艾比·奎因
+　　　　　　斯蒂芬·施耐德
+　　　　　　迈克尔·马西尼
+　　　　　　米歇尔·方
+　　　　　　安德鲁·莫尔加多
+　　　　　　克里斯蒂安·哈切森
+　　　　　　大卫·索博洛夫
+　　　　　　拉斯·斯兰德
+　　　　　　威廉·W·巴伯
+　　　　　　艾蒂安·维克
+　　　　　　托尼·托斯特
+　　　　　　萨钦·巴特
+　　　　　　波士顿·拉什·弗里曼
+　　　　　　迪娜·特鲁迪
+　　　　　　安东尼奥·查丽蒂
+　　　　　　蒂姆·马丁·格里森
+　　　　　　罗伯特·切斯纳特
+　　　　　　里克·理查森
+[2019-03-27 18: 58: 02] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　　本片故事设定在1987年，正值青春期的18岁少女查理Charlie（海莉·斯坦菲尔德饰）在加州海边小镇的废弃场里发现了伤痕累累的大黄蜂，他们之间会发生怎样的故事呢？让我们拭目以待！
+ 
+[2019-03-27 18: 58: 02] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:N7HVRO3UYIQQWDU7QQOYJ25TIBKECELM&dn=dhf%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 02] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 02] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-25/35909.html HTTP/1.1" 200 7766
+[2019-03-27 18: 58: 02] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 03] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-25/35909.html HTTP/1.1" 200 7766
+[2019-03-27 18: 58: 03] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 03] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-25/35909.html HTTP/1.1" 200 7766
+[2019-03-27 18: 58: 03] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 03] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 03] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:4NJH6HOE3BWXS5G6C5Y6Q67Y7C2NGDI7&dn=%e5%a6%96%e5%85%bd%e9%83%bd%e5%b8%82%2e720p%2e%e5%9b%bd%e7%b2%a4%e5%8f%8c%e8%af%ad%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 03] INFO [log_info: log_info.py 8] 电影名: 妖兽都市
+[2019-03-27 18: 58: 03] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy2/2019-03-25/35909.html
+[2019-03-27 18: 58: 03] INFO [log_info: log_info.py 10] 电影信息: ◎简　　介
+[2019-03-27 18: 58: 03] INFO [log_info: log_info.py 11] 电影简介: 　　故事发生在未来世界，阿龙（黎明 饰）和阿强（张学友 饰）都是抓捕妖兽的特警队警员，但是上司（袁和平 饰）非常器重阿龙，而对阿强就戒心重重。阿强气不过在酒吧买醉，得到了女友（李若彤 饰）的支持宽慰。然而，他心头总是笼罩着阴影——原来阿强的母亲也是妖兽，后来他把这个隐秘告诉了阿龙。阿龙也坦白了自己跟妖兽幻姬（李嘉欣 饰）的一段感情…… 
+　　此后，阿龙在一次抓捕元大宗（仲代达矢 饰）的行动中，重逢了现已成为元妻的幻姬，情急之下却要引出重重误会。其实，元大宗是要跟人类合作的妖兽，但是另有一股液态妖兽正在肆虐地侵袭这个城市。在对抗液态妖兽的过程中，阿龙与幻姬的感情经历了生死的考验，但是元大宗的儿子鬼众道（张耀扬 饰）却设计离间意图消灭人类，与此同时阿强也发现了特警队的叛徒……
+[2019-03-27 18: 58: 03] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:4NJH6HOE3BWXS5G6C5Y6Q67Y7C2NGDI7&dn=%e5%a6%96%e5%85%bd%e9%83%bd%e5%b8%82%2e720p%2e%e5%9b%bd%e7%b2%a4%e5%8f%8c%e8%af%ad%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 03] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 03] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-25/35908.html HTTP/1.1" 200 7595
+[2019-03-27 18: 58: 03] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 04] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-25/35908.html HTTP/1.1" 200 7595
+[2019-03-27 18: 58: 04] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 04] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-25/35908.html HTTP/1.1" 200 7595
+[2019-03-27 18: 58: 04] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 04] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 04] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:WLQE4KCCIFUXRV7MV4T7UOPREHXDFDCR&dn=%e5%a5%94%e5%90%91%e5%a4%a7%e6%b5%b7%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 04] INFO [log_info: log_info.py 8] 电影名: 奔向大海
+[2019-03-27 18: 58: 04] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-25/35908.html
+[2019-03-27 18: 58: 04] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　奔向大海/�碜源蠛５哪腥�(台) /幻海奇男(港)
+◎片　　名　海を�lける/The Man from the Sea
+◎年　　代　2018
+◎产　　地　日本/法国/印度尼西亚
+◎类　　别　剧情/奇幻
+◎语　　言　日语/印尼语
+◎字　　幕　中字
+◎导　　演　深田晃司
+◎主　　演　藤冈靛
+　　　　　　太贺
+　　　　　　阿部纯子
+　　　　　　鹤田真由
+[2019-03-27 18: 58: 04] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 04] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:WLQE4KCCIFUXRV7MV4T7UOPREHXDFDCR&dn=%e5%a5%94%e5%90%91%e5%a4%a7%e6%b5%b7%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 04] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 04] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-25/35907.html HTTP/1.1" 200 8001
+[2019-03-27 18: 58: 04] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 05] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-25/35907.html HTTP/1.1" 200 8001
+[2019-03-27 18: 58: 05] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 05] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-25/35907.html HTTP/1.1" 200 8001
+[2019-03-27 18: 58: 05] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 05] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 05] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:5Y64GDVAJMUR5CQ34WHLPHJXHGGWA6EH&dn=%e7%8c%ab%e6%98%af%e8%a6%81%e6%8a%b1%e7%9d%80%e7%9a%84%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 05] INFO [log_info: log_info.py 8] 电影名: 猫是要抱着的
+[2019-03-27 18: 58: 05] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-25/35907.html
+[2019-03-27 18: 58: 05] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　猫是要抱着的/猫是用来抱的(台)
+◎片　　名　猫は抱くもの/The Cat in Their Arms
+◎年　　代　2018
+◎产　　地　日本
+◎类　　别　剧情
+◎语　　言　日语
+◎字　　幕　中字
+◎导　　演　犬童一心
+◎主　　演　泽尻英龙华
+　　　　　　吉泽亮
+　　　　　　�o田和伸
+　　　　　　岩松了
+[2019-03-27 18: 58: 05] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 05] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:5Y64GDVAJMUR5CQ34WHLPHJXHGGWA6EH&dn=%e7%8c%ab%e6%98%af%e8%a6%81%e6%8a%b1%e7%9d%80%e7%9a%84%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 05] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 05] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-02-14/35699.html HTTP/1.1" 200 10390
+[2019-03-27 18: 58: 05] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 06] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-02-14/35699.html HTTP/1.1" 200 10390
+[2019-03-27 18: 58: 06] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 06] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-02-14/35699.html HTTP/1.1" 200 10390
+[2019-03-27 18: 58: 06] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 06] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 06] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:V7UP6NFQIMQJC6ENN2AAOO3SD3TS5WVF&dn=xtjz%2e1080p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 06] INFO [log_info: log_info.py 8] 电影名: 小偷家族
+[2019-03-27 18: 58: 06] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-02-14/35699.html
+[2019-03-27 18: 58: 06] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　小偷家族 / Manbiki kazoku / Shoplifters / Une Affaire de Famille
+◎片　　名　万引き家族
+◎年　　代　2018
+◎产　　地　日本
+◎类　　别　剧情 / 家庭 / 犯罪
+◎语　　言　日语
+◎字　　幕　中字
+◎上映日期　2018-05-13(戛纳电影节) / 2018-06-08(日本) / 2018-08-03(中国大陆)
+◎IMDb评分　8.1/10 from 13402 users
+◎豆瓣评分　8.7/10 from 207955 users
+◎片　　长　117分钟(中国大陆)
+◎导　　演　是枝裕和 Hirokazu Koreeda
+◎编　　剧　是枝裕和 Hirokazu Koreeda
+◎主　　演　中川雅也 Lily Franky
+　　　　　　安藤樱 Sakura Andô
+　　　　　　松冈茉优 Mayu Matsuoka
+　　　　　　城桧吏 Jyo Kairi
+　　　　　　佐佐木美雪 Miyu Sasaki
+　　　　　　树木希林 Kirin Kiki
+　　　　　　绪形直人 Naoto Ogata
+　　　　　　池松壮亮 Sosuke Ikematsu
+　　　　　　森口瑶子 Yôko Moriguchi
+　　　　　　山田裕贵 Yûki Yamada
+　　　　　　片山萌美 Moemi Katayama
+　　　　　　柄本明 Akira Emoto
+　　　　　　高良健吾 Kengo Kora
+　　　　　　池胁千鹤 Chizuru Ikewaki
+[2019-03-27 18: 58: 06] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　　东京的都市丛林中央，残存着一栋古旧寒酸的老房子，这里局促地生活着柴田一家五口人。在工地当临时工的男人阿治（Lily Franky 饰）经常带着儿子祥太（城桧吏 饰）到超市盗窃生活用品，这一天，他们回家路上遇到了独自待在户外的四岁女孩由里（佐佐木美结 饰）。妻子信代（安藤樱 饰）起初极力主张将女孩送回父母身边，但当看到女孩原生家庭的状况时又心生恻隐。原本柴田家就靠着老奶奶初枝（树木希林 饰）的养老金度日，而今多了一口人，自然更艰辛了几分。包括信代的妹妹亚纪（松冈茉优 饰）在内，虽然一家人游走在贫困和违法的边缘，但笃深的羁绊将他们紧紧联系在一起，使他们的心不会随着冰冷的都市而寒冷下去……
+本片荣获第71届戛纳电影节金棕榈
+[2019-03-27 18: 58: 06] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:V7UP6NFQIMQJC6ENN2AAOO3SD3TS5WVF&dn=xtjz%2e1080p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 06] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 06] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35880.html HTTP/1.1" 200 8137
+[2019-03-27 18: 58: 06] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 06] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35880.html HTTP/1.1" 200 8137
+[2019-03-27 18: 58: 07] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 07] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35880.html HTTP/1.1" 200 8137
+[2019-03-27 18: 58: 07] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 07] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 07] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:257PLMZUWMNUEK42VSVPCOSLCO4IDA77&dn=%e7%b4%a7%e6%80%a5%e6%95%91%e5%91%bd%2e1080p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 07] INFO [log_info: log_info.py 8] 电影名: 紧急救命
+[2019-03-27 18: 58: 07] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-20/35880.html
+[2019-03-27 18: 58: 07] INFO [log_info: log_info.py 10] 电影信息: 紧急救命 ���霭� 紧急救命电影版 / 蓝色急救 / 蓝色信号 / 空中急诊英雄(台) / Code Blue
+[2019-03-27 18: 58: 07] INFO [log_info: log_info.py 11] 电影简介: ◎译　　名　紧急救命/空中急诊英雄(台)
+◎片　　名　���霭� コ�`ド・ブル�`-ドクタ�`ヘリ�o急救命-/Code Blue the Movie
+◎年　　代　2018
+◎产　　地　日本
+◎类　　别　剧情
+◎语　　言　日语
+◎字　　幕　中字
+◎导　　演　西浦正记
+◎主　　演　山下智久
+　　　　　　新垣结衣
+　　　　　　户田惠梨香
+　　　　　　比嘉爱未
+　　　　　　浅利阳介
+[2019-03-27 18: 58: 07] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:257PLMZUWMNUEK42VSVPCOSLCO4IDA77&dn=%e7%b4%a7%e6%80%a5%e6%95%91%e5%91%bd%2e1080p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 07] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 07] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-24/35906.html HTTP/1.1" 200 7914
+[2019-03-27 18: 58: 07] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 08] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-24/35906.html HTTP/1.1" 200 7914
+[2019-03-27 18: 58: 08] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 08] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-24/35906.html HTTP/1.1" 200 7914
+[2019-03-27 18: 58: 08] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 08] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 08] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:HPC57RPCYNQGBJLGFA23LIIEJ4XOAD4M&dn=%e9%a1%ba%e6%b5%81%e9%80%86%e6%b5%81%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 08] INFO [log_info: log_info.py 8] 电影名: 顺流逆流
+[2019-03-27 18: 58: 08] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy2/2019-03-24/35906.html
+[2019-03-27 18: 58: 08] INFO [log_info: log_info.py 10] 电影信息: ◎简　　介 
+[2019-03-27 18: 58: 08] INFO [log_info: log_info.py 11] 电影简介: 　　年轻人阿政（谢霆锋饰）总想着能有不一样的生活，向往去南美。一次偶然，他邂逅卧底女警察（徐子淇饰），当上了“准爸爸”。为了筹钱抚养女方肚中的孩子，阿杰辞掉了酒吧招待的工作，跟随吉叔（黄秋生饰）做起了保镖。 阿杰（伍佰饰）多年来在南美担任雇佣兵，在经历枪林弹雨的战火生活后，他想着洗手告别过去，回到香港娶了慧（卢巧音饰），她是香港有权势的黑社会老大的女儿。一次阿杰无意中结识了阿政。 而阿政为了照顾妻子，独吞了钱财，昔日战友们很快追到香港，一场恶战在所难免。
+[2019-03-27 18: 58: 08] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:HPC57RPCYNQGBJLGFA23LIIEJ4XOAD4M&dn=%e9%a1%ba%e6%b5%81%e9%80%86%e6%b5%81%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 08] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 08] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-03-24/35905.html HTTP/1.1" 200 8869
+[2019-03-27 18: 58: 08] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 09] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-03-24/35905.html HTTP/1.1" 200 8869
+[2019-03-27 18: 58: 09] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 09] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-03-24/35905.html HTTP/1.1" 200 8869
+[2019-03-27 18: 58: 09] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 09] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 09] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:M56AAZA6VXFOG3VEU3MS4FDXPSO6XHFN&dn=%e6%b5%b7%e7%8e%8b%2e1080p%2eBD%e5%9b%bd%e8%af%ad%e9%85%8d%e9%9f%b3%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 09] INFO [log_info: log_info.py 8] 电影名: 海王[国语]
+[2019-03-27 18: 58: 09] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy6/2019-03-24/35905.html
+[2019-03-27 18: 58: 09] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　海王/人鱼哥(豆友译名)/水人/水行侠(港/台)/潜水侠
+◎片　　名　Aquaman
+◎年　　代　2018
+◎产　　地　澳大利亚/美国
+◎类　　别　动作/奇幻/冒险
+◎语　　言　国语
+◎字　　幕　完美中字
+◎上映日期　2018-12-07(中国大陆)/2018-12-21(美国)
+◎豆瓣评分　8.4/10 from 7,188 users
+◎片　　长　143分钟
+◎导　　演　温子仁 James Wan
+◎编　　剧　大卫·约翰逊 David Johnson / 威尔·比尔 Will Beall / 乔夫·琼斯 Geoff Johns / 温子仁 James Wan / 莫尔特·魏辛格 Mort Weisinger / 保罗·诺里斯 Paul Norris
+◎主　　演　杰森·莫玛 Jason Momoa
+　　　　  　艾梅柏·希尔德 Amber Heard
+　　　　  　妮可·基德曼 Nicole Kidman
+　　　　  　帕特里克·威尔森 Patrick Wilson
+　　　　  　威廉·达福 Willem Dafoe
+　　　　  　叶海亚·阿卜杜勒-迈丁 Yahya Abdul-Mateen II
+　　　　  　杜夫·龙格尔 Dolph Lundgren
+　　　　  　兰道尔·朴 Randall Park
+　　　　  　特穆拉·莫里森 Temuera Morrison
+　　　　  　杰曼·翰苏 Djimon Hounsou
+　　　　  　Tahlia Jade Holt
+　　　　  　朱莉·安德鲁斯 Julie Andrews
+　　　　  　林路迪 Ludi Lin
+　　　　  　雷·沃纳尔 Leigh Whannell
+　　　　  　娜塔莉亚姗福瑞 Natalia Safran
+　　　　  　迈克尔·比奇 Michael Beach
+　　　　  　格拉汉姆·麦克泰维什 Graham McTavish
+　　　　  　Sophia Forrest
+　　　　  　Alice Lanesbury
+　　　　  　Otis Dhanji
+　　　　  　Patrick Cox
+　　　　  　卡恩·古尔杜尔 Kaan Guldur
+　　　　  　Gabriella Petkova
+　　　　  　Anna Patch
+　　　　  　Mikey Wulff
+　　　　  　Patrick Atchison
+　　　　  　Ross Kernahan
+　　　　  　Winnie Mzembe
+　　　　  　Vincent B. Gorce
+　　　　  　Dylan Stumer
+　　　　  　约翰·盖蒂尔 John Gettier
+　　　　  　Kai Pantano
+[2019-03-27 18: 58: 09] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　　许多年前，亚特兰蒂斯女王（妮可·基德曼 Nicole Kidman 饰）和人类相知相恋，共同孕育了爱情的结晶——后来被陆地人称为海王的亚瑟·库瑞（杰森·莫玛 Jason Momoa 饰）。在成长的过程中，亚瑟接受海底导师维科（威廉·达福 Willem Dafoe 饰）的严苛训练，时刻渴望去看望母亲，然而作为混血的私生子这却是奢望。与此同时，亚瑟的同母异父兄弟奥姆（帕特里克·威尔森 Patrick Wilson 饰）成为亚特兰蒂斯的国王，他不满陆地人类对大海的荼毒与污染，遂谋划联合其他海底王国发动对陆地的全面战争。为了阻止他的野心，维科和奥姆的未婚妻湄拉（艾梅柏·希尔德 Amber Heard 饰）将亚瑟带到海底世界。
+[2019-03-27 18: 58: 09] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:M56AAZA6VXFOG3VEU3MS4FDXPSO6XHFN&dn=%e6%b5%b7%e7%8e%8b%2e1080p%2eBD%e5%9b%bd%e8%af%ad%e9%85%8d%e9%9f%b3%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 09] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 09] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-12-28/35426.html HTTP/1.1" 200 11618
+[2019-03-27 18: 58: 09] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 10] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-12-28/35426.html HTTP/1.1" 200 11618
+[2019-03-27 18: 58: 10] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 10] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-12-28/35426.html HTTP/1.1" 200 11618
+[2019-03-27 18: 58: 10] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 10] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 10] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:7R22KTKNHGLIYM3TPPRQ4P2YVRT5TPJG&dn=%e8%9c%98%e8%9b%9b%e4%be%a0%ef%bc%9a%e5%b9%b3%e8%a1%8c%e5%ae%87%e5%ae%99%2e%e5%8a%a0%e9%95%bf%e7%89%88%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 10] INFO [log_info: log_info.py 8] 电影名: 蜘蛛侠：平行宇宙
+[2019-03-27 18: 58: 10] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy4/2018-12-28/35426.html
+[2019-03-27 18: 58: 10] INFO [log_info: log_info.py 10] 电影信息: 
+◎译　　名　蜘蛛侠：平行宇宙 / Spider-Man: a New Universe / 蜘蛛人：新宇宙(台) / 蜘蛛侠：平行世界 / 蜘蛛侠：新纪元 / 蜘蛛侠：跳入蜘蛛宇宙(港)
+◎片　　名　Spider-Man: Into the Spider-Verse
+◎年　　代　2018
+◎产　　地　美国
+◎类　　别　动作 / 科幻 / 动画 / 冒险
+◎语　　言　英语 / 西班牙语
+◎字　　幕　中英双字
+◎上映日期　2018-12-14(美国) / 2018-12-21(中国大陆)
+◎IMDb评分　8.7/10 from 96568 users
+◎豆瓣评分　8.7/10 from 207368 users
+◎片　　长　116分钟(中国大陆)
+◎导　　演　鲍勃·佩尔西凯蒂 Bob Persichetti / 彼得·拉姆齐 Peter Ramsey / 罗德尼·罗斯曼 Rodney Rothman
+◎编　　剧　菲尔·罗德 Phil Lord / 罗德尼·罗斯曼 Rodney Rothman / 布莱恩·本迪斯 Brian Bendis / 萨拉·皮凯利 Sara Pichelli / 史蒂夫·迪特寇 Steve Ditko / 斯坦·李 Stan Lee / David Hine / Fabrice Sapolsky
+◎主　　演　沙梅克·摩尔 Shameik Moore
+　　　　　　杰克·约翰逊 Jake M. Johnson
+　　　　　　海莉·斯坦菲尔德 Hailee Steinfeld
+　　　　　　马赫沙拉·阿里 Mahershala Ali
+　　　　　　布莱恩·泰里·亨利 Brian Tyree Henry
+　　　　　　莉莉·汤姆林 Lily Tomlin
+　　　　　　劳伦·维勒斯 Lauren Vélez
+　　　　　　佐伊·克罗维兹 Zoë Kravitz
+　　　　　　约翰·木兰尼 John Mulaney
+　　　　　　金可·格伦 Kimiko Glenn
+　　　　　　尼古拉斯·凯奇 Nicolas Cage
+　　　　　　凯瑟琳·哈恩 Kathryn Hahn
+　　　　　　列维·施瑞博尔 Liev Schreiber
+　　　　　　克里斯·派恩 Chris Pine
+　　　　　　娜塔丽·莫瑞丝 Natalie Morales
+　　　　　　奥斯卡·伊萨克 Oscar Isaac
+　　　　　　格里塔·李 Greta Lee
+　　　　　　斯坦·李 Stan Lee
+　　　　　　乔玛·塔科内 Jorma Taccone
+　　　　　　华金·科西奥 Joaquín Cosio
+　　　　　　蕾克·贝尔 Lake Bell
+　　　　　　梅勒妮·海恩斯 Melanie Haynes
+　　　　　　尼克·杰恩 Nick Jaine
+　　　　　　穆尼卜·拉赫曼 Muneeb Rehman
+　　　　　　Carlos Zaragoza
+　　　　　　黛西·罗斯·布莱内斯 Darcy Rose Byrnes
+　　　　　　里夫·霍顿 Rif Hutton
+　　　　　　哈里森·奈特 Harrison Knight
+　　　　　　莱克斯·朗 Lex Lang
+　　　　　　凯特琳·麦肯纳-威尔金森 Caitlin McKenna-Wilkinson
+　　　　　　斯科特·门维尔 Scott Menville
+　　　　　　克里斯托弗·米勒 Christopher Miller
+　　　　　　德维卡·帕利赫 Devika Parikh
+　　　　　　柯特妮·佩尔顿 Courtney Peldon
+　　　　　　克里斯蒂·法瑞斯 Chrystee Pharris
+　　　　　　杰奎琳·皮诺尔 Jacqueline Pinol
+　　　　　　贾斯汀·沉卡罗 Justin Shenkarow
+　　　　　　梅利莎·斯特姆 Melissa Sturm
+[2019-03-27 18: 58: 10] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　　迈尔斯（沙梅克·摩尔 配音）的父亲是一位一板一眼的警官，而他的母亲则是一名工作勤奋的护士。慈爱的父母对于孩子的成就非常自豪，也希望他能够融入新加入的这所优秀的学校，在这里取得成功。然而迈尔斯的生活因为一次意外变得更加复杂。他被一只放射性蜘蛛咬伤，并因此获得了毒液冲击、伪装隐藏、蜘蛛爬行、超凡听力、蜘蛛感应等一系列超能力。与此同时，这座城市里最臭名昭着的犯罪头目金并（列维·施瑞博尔 配音）已经建立起一台高度隐秘的超级对撞机，这台对撞机开启了通往其他宇宙的时空通道，来自其他宇宙、不同版本的蜘蛛侠（包括中年彼得·帕克、女蜘蛛侠格温、暗影蜘蛛侠、蜘猪侠和潘妮·帕克）也来到了迈尔斯所在的世界。在这些新老角色的帮助下，迈尔斯慢慢学习、逐渐接受挑战，也学会了作为一名超级英雄所要承担的责任。他最终意识到，任何人都可以戴上超级英雄的面具，为正义而战……
+[2019-03-27 18: 58: 10] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:7R22KTKNHGLIYM3TPPRQ4P2YVRT5TPJG&dn=%e8%9c%98%e8%9b%9b%e4%be%a0%ef%bc%9a%e5%b9%b3%e8%a1%8c%e5%ae%87%e5%ae%99%2e%e5%8a%a0%e9%95%bf%e7%89%88%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 10] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 10] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35904.html HTTP/1.1" 200 7734
+[2019-03-27 18: 58: 10] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 11] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35904.html HTTP/1.1" 200 7734
+[2019-03-27 18: 58: 11] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 11] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35904.html HTTP/1.1" 200 7734
+[2019-03-27 18: 58: 11] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 11] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 11] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 11] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 11] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 11] INFO [log_info: log_info.py 8] 电影名: 雪葬
+[2019-03-27 18: 58: 11] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-24/35904.html
+[2019-03-27 18: 58: 11] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　雪葬/Snowfall
+◎片　　名　雪·葬
+◎年　　代　2018
+◎产　　地　中国大陆
+◎类　　别　剧情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2018-04-27(中国大陆)
+◎片　　长　105分钟
+◎导　　演　高成岗 Chenggang Gao
+◎编　　剧　张园 Yuan Zhang
+◎主　　演　任帅 Shuai Ren
+　　　　　　徐永革 Yongge Xu
+　　　　　　叶鹏 Peng Ye
+ 
+[2019-03-27 18: 58: 11] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 11] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 11] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 11] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35903.html HTTP/1.1" 200 7409
+[2019-03-27 18: 58: 11] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 12] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35903.html HTTP/1.1" 200 7409
+[2019-03-27 18: 58: 12] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 12] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35903.html HTTP/1.1" 200 7409
+[2019-03-27 18: 58: 12] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 12] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 12] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 12] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 12] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 12] INFO [log_info: log_info.py 8] 电影名: 破门
+[2019-03-27 18: 58: 12] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-24/35903.html
+[2019-03-27 18: 58: 12] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　You’ll Never Walk Alone
+◎片　　名　破门
+◎年　　代　2018
+◎产　　地　中国大陆
+◎类　　别　剧情
+◎语　　言　汉语普通话◎上映日期　2018-05-11(中国大陆)
+◎片　　长　104分钟
+◎导　　演　徐耿 Geng Xu
+◎编　　剧　许波 Bo Xu
+◎主　　演　马顺洗 Shunxi Ma
+　　　　　　李虎城 Hucheng Li
+　　　　　　彭一家 Yijia Peng
+　　　　　　刘炷诗曼
+　　　　　　浦浩宇 Haoyu Pu
+　　　　　　陈柯宇 Keyu Chen
+　　　　　　李金津川
+　　　　　　徐谦 Qian Xu
+　　　　　　邓诗国
+　　　　　　陈建宇
+　　　　　　苏爱娟 Aijuan Su
+ 
+[2019-03-27 18: 58: 12] INFO [log_info: log_info.py 11] 电影简介:  ◎简　　介
+[2019-03-27 18: 58: 12] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 12] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 12] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35902.html HTTP/1.1" 200 7022
+[2019-03-27 18: 58: 12] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 13] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35902.html HTTP/1.1" 200 7022
+[2019-03-27 18: 58: 13] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 13] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35902.html HTTP/1.1" 200 7022
+[2019-03-27 18: 58: 13] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 13] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 13] INFO [log_info: log_info.py 8] 电影名: 内联升传奇
+[2019-03-27 18: 58: 13] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-24/35902.html
+[2019-03-27 18: 58: 13] INFO [log_info: log_info.py 10] 电影信息: ◎片　　名　内联升传奇
+◎年　　代　2018
+◎产　　地　中国大陆
+◎类　　别　剧情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2018-09-13(中国大陆)
+◎片　　长　90分钟
+◎导　　演　何燕江 Yanjiang He
+◎编　　剧　姜铁军 / 朱可欣 Kexin Zhu
+◎主　　演　孙骁潇 Xiaoxiao Sun
+　　　　　　徐歆雨
+　　　　　　张璐瑶 Luyao Zhang
+　　　　　　陈辰
+　　　　　　侯天来 Tianlai Hou
+　　　　　　陈之辉 Zhi-hui Chen
+　　　　　　于雷
+[2019-03-27 18: 58: 13] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 13] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 13] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 13] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35901.html HTTP/1.1" 200 7289
+[2019-03-27 18: 58: 13] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 14] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35901.html HTTP/1.1" 200 7289
+[2019-03-27 18: 58: 14] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 14] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35901.html HTTP/1.1" 200 7289
+[2019-03-27 18: 58: 14] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 14] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 14] INFO [log_info: log_info.py 8] 电影名: 我的上高
+[2019-03-27 18: 58: 14] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-24/35901.html
+[2019-03-27 18: 58: 14] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　The Old Day in Shanggao
+◎片　　名　我的上高
+◎年　　代　2017
+◎产　　地　中国大陆
+◎类　　别　剧情 / 战争
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2017-03-08(中国大陆)
+◎片　　长　100分钟
+◎导　　演　钱泠泠 Lingling Qian
+◎编　　剧　方天民 Tianmin Fang
+◎主　　演　田小洁 Xiaojie Tian
+　　　　　　耿黎明 Liming Geng
+　　　　　　易勇名
+　　　　　　朴俊铭
+　　　　　　张宇飞
+◎简　　介 
+[2019-03-27 18: 58: 14] INFO [log_info: log_info.py 11] 电影简介: 　　电影《我的上高》以上高会战为背景，再现了上高会战时期，上高普通民众支援抗战、痛击日本侵略者的一段感人故事。闻名中外的“上高会战”又称“上高战役”或“锦江会战”，被称为是上世纪抗战以来最精彩的一战：1941年3月，驻南昌的34师团大岛茂因友邻第33师团预定要调到华北，要求33师团走前配合自己扫荡周围的中国军主力，却因两个师团严重不配合导致34师团扎进4个中国军的合围圈，是为“上高战役”。中国军队统计击毙日军大佐联队长滨田以下日军15000余人，日军自报伤亡千余人
+[2019-03-27 18: 58: 14] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 14] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 14] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35900.html HTTP/1.1" 200 7560
+[2019-03-27 18: 58: 14] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 15] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35900.html HTTP/1.1" 200 7560
+[2019-03-27 18: 58: 15] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 15] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35900.html HTTP/1.1" 200 7560
+[2019-03-27 18: 58: 15] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 15] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 15] INFO [log_info: log_info.py 8] 电影名: 打工老板
+[2019-03-27 18: 58: 15] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-24/35900.html
+[2019-03-27 18: 58: 15] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　Factory Boss / Le Patron de l'usine / 中国·制造
+◎片　　名　打工老板
+◎年　　代　2014
+◎产　　地　中国大陆
+◎类　　别　剧情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2014-10-21(广东地区)
+◎IMDb评分　7.8/10 from 16 users
+◎豆瓣评分　7.5/10 from 2060 users
+◎片　　长　98分钟
+◎导　　演　张唯 Wei Zhang
+◎编　　剧　陈阳 Yang Chen / 李丹 Dan Li / 王兵 Bing Wang / 罗四维 Siwei Luo / 孙海帆 Haifan Sun / 李松樟 Songzhang Li / 张鹏 Peng Zhang
+◎主　　演　姚安濂 Anlian Yao
+　　　　　　汤�� Yan Tang
+　　　　　　赵炬 Ju Zhao
+　　　　　　黄精一 Jingyi Huang
+ 
+[2019-03-27 18: 58: 15] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介 
+[2019-03-27 18: 58: 15] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 15] ERROR [exec: get_db.py 26] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'usine / 中国·制造\r\n◎片\u3000\u3000名\u3000打工老板\r\n◎年\u3000\u3000代\u30002014\r\n' at line 1")
+[2019-03-27 18: 58: 15] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 15] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-24/35898.html HTTP/1.1" 200 7198
+[2019-03-27 18: 58: 15] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 16] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-24/35898.html HTTP/1.1" 200 7198
+[2019-03-27 18: 58: 16] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 16] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-24/35898.html HTTP/1.1" 200 7198
+[2019-03-27 18: 58: 16] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 16] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 16] INFO [log_info: log_info.py 8] 电影名: 独家记忆之再见爱
+[2019-03-27 18: 58: 16] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy3/2019-03-24/35898.html
+[2019-03-27 18: 58: 16] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　独家记忆之再见爱
+◎片　　名　独家记忆番外之再见爱
+◎年　　代　2019
+◎产　　地　中国大陆
+◎类　　别　爱情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2019-03-02(中国大陆)
+◎片　　长　90分钟
+◎导　　演　刘畅 Chang Liu
+◎编　　剧　陈潇骁 Xiaoxiao Chen / 贺牧君 Mujun He
+◎主　　演　张樟 Zhang Zhang
+　　　　　　邓郁立 Yuli Deng
+　　　　　　李欢 Huan Li
+　　　　　　方文强 Wenqiang Fang
+　　　　　　叶子诚 Zicheng Ye
+　　　　　　孙嘉灵 Jialing Sun
+[2019-03-27 18: 58: 16] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 16] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 16] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 16] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-24/35897.html HTTP/1.1" 200 7128
+[2019-03-27 18: 58: 16] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 16] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-24/35897.html HTTP/1.1" 200 7128
+[2019-03-27 18: 58: 17] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 17] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-24/35897.html HTTP/1.1" 200 7128
+[2019-03-27 18: 58: 17] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 17] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 17] INFO [log_info: log_info.py 8] 电影名: 独家记忆之勇敢爱
+[2019-03-27 18: 58: 17] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy3/2019-03-24/35897.html
+[2019-03-27 18: 58: 17] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名    独家记忆之勇敢爱
+◎片　　名　独家记忆番外之勇敢爱
+◎年　　代　2019
+◎产　　地　中国大陆
+◎类　　别　爱情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2019-03-02(中国大陆)
+◎片　　长　90分钟
+◎导　　演　刘畅 Chang Liu
+◎编　　剧　郎晓萌 Xiaomeng Lang / 袁漫潇 Manxiao Yuan
+◎主　　演　张超 Chao Zhang
+　　　　　　李婷婷 TingtingLi
+　　　　　　陈博豪 Bohao Chen
+　　　　　　孙嘉灵 Jialing Sun
+　　　　　　李九霄 Jiuxiao Li
+　　　　　　张樟 Zhang Zhang
+　　　　　　邓郁立 Yuli Deng
+[2019-03-27 18: 58: 17] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 17] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 17] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 17] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35896.html HTTP/1.1" 200 6975
+[2019-03-27 18: 58: 17] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 17] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35896.html HTTP/1.1" 200 6975
+[2019-03-27 18: 58: 17] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 18] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35896.html HTTP/1.1" 200 6975
+[2019-03-27 18: 58: 18] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 18] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 18] INFO [log_info: log_info.py 8] 电影名: 天渠
+[2019-03-27 18: 58: 18] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-24/35896.html
+[2019-03-27 18: 58: 18] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　Sky Stream
+◎片　　名　天渠
+◎年　　代　2018
+◎产　　地　中国大陆
+◎类　　别　剧情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2018-11-30(中国大陆)
+◎片　　长　93分钟
+◎导　　演　柏麟
+◎编　　剧　韩炜 Wei Han
+◎主　　演　郑强 Qiang Zheng
+　　　　　　褚楚 Chu Chu
+　　　　　　王小挺 Xiaoting Wang
+　　　　　　侯煜 Yu Hou
+　　　　　　周华
+　　　　　　李玉龙 Yulong Li
+　　　　　　柳秉钰
+　　　　　　文俊挺
+[2019-03-27 18: 58: 18] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　　讲述被 授予“时代楷模”称号  、贵州遵义仡佬族乡村干部黄大发，从20世纪60年代起，历时30余年，带领群众在绝壁上凿出一条长9400米、地跨3个村的“天渠”，践行了新时期愚公移山精神的故事。
+ 
+[2019-03-27 18: 58: 18] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 18] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 18] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-24/35895.html HTTP/1.1" 200 6936
+[2019-03-27 18: 58: 18] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 18] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-24/35895.html HTTP/1.1" 200 6936
+[2019-03-27 18: 58: 18] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 19] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-24/35895.html HTTP/1.1" 200 6936
+[2019-03-27 18: 58: 19] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 19] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 19] INFO [log_info: log_info.py 8] 电影名: 永生之地
+[2019-03-27 18: 58: 19] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy2/2019-03-24/35895.html
+[2019-03-27 18: 58: 19] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　永生之地 
+◎片　　名　Never Grow Old/Where We'll Never Grow Old 
+◎年　　代　2019 
+◎产　　地　爱尔兰 
+◎类　　别　动作/犯罪/西部 
+◎语　　言　英语 
+◎字　　幕　中英双字 
+◎上映日期　2019-03-15(美国) 
+◎IMDb评分　5.5/10 from 224 users 
+◎文件格式　x264 + aac 
+◎视频尺寸　1280 x 720 
+◎文件大小　1CD 
+◎导　　演　伊万·卡瓦纳 Ivan Kavanagh 
+◎编　　剧　伊万·卡瓦纳 Ivan Kavanagh 
+◎主　　演　约翰·库萨克 John Cusack 
+　　　　　　埃米尔·赫斯基 Emile Hirsch 
+　　　　　　安东尼娅·坎贝尔-休斯 Antonia Campbell-Hughes 
+　　　　　　丹尼·韦伯 Danny Webb 
+　　　　　　黛博拉·弗朗索瓦 Déborah François 
+　　　　　　保罗·罗南 Paul Ronan 
+　　　　　　保罗·雷德 Paul Reid 
+　　　　　　安妮·考森斯 Anne Coesens 
+　　　　　　萨姆·卢维克 Sam Louwyck 
+　　　　　　史蒂夫·卡里尔 Steve Karier 
+　　　　　　Blake Berris 
+　　　　　　Tim Ahern
+[2019-03-27 18: 58: 19] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 19] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 19] ERROR [exec: get_db.py 26] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'll Never Grow Old \r\n◎年\u3000\u3000代\u30002019 \r\n◎产\u3000\u3000地\u3000爱尔兰 \r\n◎' at line 1")
+[2019-03-27 18: 58: 19] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 19] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35894.html HTTP/1.1" 200 7003
+[2019-03-27 18: 58: 19] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 19] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35894.html HTTP/1.1" 200 7003
+[2019-03-27 18: 58: 19] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 20] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-24/35894.html HTTP/1.1" 200 7003
+[2019-03-27 18: 58: 20] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 20] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 20] INFO [log_info: log_info.py 8] 电影名: 午夜迷案
+[2019-03-27 18: 58: 20] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-24/35894.html
+[2019-03-27 18: 58: 20] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　Mist in the Midnight
+◎片　　名　午夜迷案
+◎年　　代　2019
+◎产　　地　中国大陆
+◎类　　别　悬疑
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2019-01-20(中国大陆)
+◎片　　长　90分钟
+◎导　　演　方义华 / 董振业
+◎编　　剧　方义华
+◎主　　演　高旭阳
+　　　　　　武文佳
+[2019-03-27 18: 58: 20] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 20] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 20] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 20] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-22/35892.html HTTP/1.1" 200 8207
+[2019-03-27 18: 58: 20] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 20] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-22/35892.html HTTP/1.1" 200 8207
+[2019-03-27 18: 58: 20] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 21] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-22/35892.html HTTP/1.1" 200 8207
+[2019-03-27 18: 58: 21] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 21] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:HNHX3CYLL6ZFZ2Z32QDWCXYWDSCSHX4Z&dn=lzfy%2e1080p%2e%e5%9b%bd%e7%b2%a4%e5%8f%8c%e8%af%ad%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 21] INFO [log_info: log_info.py 8] 电影名: 廉政风云
+[2019-03-27 18: 58: 21] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-22/35892.html
+[2019-03-27 18: 58: 21] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　廉政风云/廉政风云·烟幕/Integrity
+◎片　　名　廉政�L�� ��幕
+◎年　　代　2019
+◎产　　地　中国香港/中国大陆
+◎类　　别　剧情/悬疑/犯罪
+◎语　　言　国粤双语
+◎字　　幕　中字
+◎上映日期　2019-02-05(中国大陆/中国香港)
+◎IMDb评分  5.5/10 from 132 users
+◎豆瓣评分　5.5/10 from 24,985 users
+◎片　　长　114分钟
+◎导　　演　麦兆辉 Alan Mak
+◎编　　剧　麦兆辉 Alan Mak / 凌志民 Chi-man Ling / 韦浩川
+◎主　　演　刘青云 Sean Lau
+　　　　  　张家辉 Nick Cheung
+　　　　  　林嘉欣 Karena Lam
+　　　　  　袁咏仪 Anita Yuen
+　　　　  　方中信 Alex Fong
+　　　　  　陈家乐 Carlos Chan
+　　　　  　汤怡 Kathy Tong
+　　　　  　骆应钧 Ying Kwan Lok
+　　　　  　吴岱融 Hugo Ng Doi-Yung
+　　　　  　常倩
+　　　　  　吴浩康 Deep Ng
+[2019-03-27 18: 58: 21] INFO [log_info: log_info.py 11] 电影简介: 
+◎简　　介
+　　廉政公署一宗经历多年调查的严重非法内销行贿案件，竟因首被告理达贸易集团负责人陈超群弃保潜逃，以及唯一重要证人兼举报者，理达的前任财务总监许植尧（张家辉饰）缺席出庭作证，导致法庭勒令延审一星期！为了7天后案件顺利重审，ICAC展开全面行动。负责此案的队长陈敬慈（刘青云饰）和负责寻找证人的江雪儿（林嘉欣饰）原是廉政公署一对恩爱夫妻，如今已分居多时，为了案件不得不联手合作。在抓捕陈超群和寻找许植尧的过程中两人都意外发现他们背后隐藏的另一重身份。一个谜团的解开是另一个谜团的开启，背后的阴谋远远超出所有人的想象，烟幕笼罩下光明之路在何方？
+[2019-03-27 18: 58: 21] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:HNHX3CYLL6ZFZ2Z32QDWCXYWDSCSHX4Z&dn=lzfy%2e1080p%2e%e5%9b%bd%e7%b2%a4%e5%8f%8c%e8%af%ad%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 21] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 21] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-01-04/35473.html HTTP/1.1" 200 7800
+[2019-03-27 18: 58: 21] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 21] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-01-04/35473.html HTTP/1.1" 200 7800
+[2019-03-27 18: 58: 21] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 22] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-01-04/35473.html HTTP/1.1" 200 7800
+[2019-03-27 18: 58: 22] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 22] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:HM6B3PPK7DUDGBLVEX3SWEREX7C5NKG4&dn=%e5%9b%bd%e5%ae%b6%e7%a0%b4%e4%ba%a7%e4%b9%8b%e6%97%a5%2e720p%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 22] INFO [log_info: log_info.py 8] 电影名: 国家破产之日
+[2019-03-27 18: 58: 22] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-01-04/35473.html
+[2019-03-27 18: 58: 22] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　国家破产之日 / Default / National Bankruptcy Day / Sovereign Default / 分秒币争(台) / 国家不渡之日
+◎片　　名　국가부도의 날
+◎年　　代　2018
+◎产　　地　韩国
+◎类　　别　剧情
+◎语　　言　韩语
+◎字　　幕　中字
+◎上映日期　2018-11-28(韩国)
+◎IMDb评分　7.0/10 from 105 users
+◎豆瓣评分　7.7/10 from 410 users
+◎片　　长　114分钟
+◎导　　演　崔国熙 Choi Gook-hee
+◎编　　剧　严成民 Seong-min Eom
+◎主　　演　金惠秀 Hye-su Kim
+　　　　　　刘亚仁 Ah-in Yu
+　　　　　　许峻豪 Jun-ho Heo
+　　　　　　赵宇镇 Woo-jin Jo
+　　　　　　文森特·卡索 Vincent Cassel
+[2019-03-27 18: 58: 22] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　　《国家破产之日》将镜头对准了1997年的亚洲金融风暴。讲述国家破产前的一周时间内，想要阻止危机的人和追逐利益的人身上发生的故事。金慧秀在片中饰演最早预见破产并开始寻找对策的韩国银行通货政策小组组长韩诗贤，面对复杂的体系和权利关系，她面前的道路可谓困难重重；刘亚仁则饰演在危机中逐利的金融才子尹正学；法国影帝文森·卡索将饰演秘密入韩的IMF总裁。
+ 
+[2019-03-27 18: 58: 22] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:HM6B3PPK7DUDGBLVEX3SWEREX7C5NKG4&dn=%e5%9b%bd%e5%ae%b6%e7%a0%b4%e4%ba%a7%e4%b9%8b%e6%97%a5%2e720p%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 22] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 22] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-22/35891.html HTTP/1.1" 200 8222
+[2019-03-27 18: 58: 22] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 22] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-22/35891.html HTTP/1.1" 200 8222
+[2019-03-27 18: 58: 22] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 23] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-22/35891.html HTTP/1.1" 200 8222
+[2019-03-27 18: 58: 23] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 23] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:BICIZIGPURK4DUM7T4WSEF27W5MSTYL6&dn=%e6%ad%bb%e4%ba%a1%e5%a4%a9%e4%bd%bf%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 23] INFO [log_info: log_info.py 8] 电影名: 死亡天使
+[2019-03-27 18: 58: 23] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-22/35891.html
+[2019-03-27 18: 58: 23] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　死亡天使/天使怎么了(台)/爱杀罪天使(港)/L'Ange
+◎片　　名　El ángel
+◎年　　代　2018
+◎产　　地　阿根廷/西班牙
+◎类　　别　剧情/同性/传记/犯罪
+◎语　　言　西班牙语
+◎字　　幕　中字
+◎上映日期　2018-05-12(戛纳电影节)/2018-08-09(阿根廷)
+◎IMDb评分  7.1/10 from 3,417 users
+◎豆瓣评分　7.5/10 from 2,659 users
+◎片　　长　118分钟
+◎导　　演　路易斯·奥特加 Luis Ortega
+◎编　　剧　塞尔吉奥·奥尔金 Sergio Olguín / 路易斯·奥特加 Luis Ortega / 鲁道夫·帕拉西奥斯 Rodolfo Palacios
+◎主　　演　洛伦佐·法罗 Lorenzo Ferro
+　　　　  　奇诺·达林 Chino Darín
+　　　　  　丹尼尔·凡尼戈 Daniel Fanego
+　　　　  　梅赛黛斯·莫朗 Mercedes Morán
+　　　　  　玛莱娜·维拉 Malena Villa
+　　　　  　塞西莉亚·罗特 Cecilia Roth
+　　　　  　索菲亚·伊内斯·托尔内 Sofía Inés Torner
+　　　　  　皮特·蓝萨尼 Peter Lanzani
+　　　　  　马塞洛·坎切米 Marcelo Cancemi
+　　　　  　路易斯·尼科 Luis Gnecco
+　　　　  　威廉·普罗赛克 William Prociuk
+[2019-03-27 18: 58: 23] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 23] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:BICIZIGPURK4DUM7T4WSEF27W5MSTYL6&dn=%e6%ad%bb%e4%ba%a1%e5%a4%a9%e4%bd%bf%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 23] ERROR [exec: get_db.py 26] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Ange\r\n◎片\u3000\u3000名\u3000El ángel\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000阿' at line 1")
+[2019-03-27 18: 58: 23] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 23] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-22/35890.html HTTP/1.1" 200 8357
+[2019-03-27 18: 58: 23] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 23] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-22/35890.html HTTP/1.1" 200 8357
+[2019-03-27 18: 58: 23] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 23] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy1/2019-03-22/35890.html HTTP/1.1" 200 8357
+[2019-03-27 18: 58: 24] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 24] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:BYHIO54URGLN6PMTXIBAUJ37IVFYJDHC&dn=%e4%b8%80%e6%9d%a1%e7%8b%97%e7%9a%84%e5%9b%9e%e5%ae%b6%e8%b7%af%2e1080p%2e%e5%9b%bd%e8%8b%b1%e5%8f%8c%e8%af%ad%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 8] 电影名: 一条狗的回家路
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy1/2019-03-22/35890.html
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　一条狗的回家路/贝拉400哩的约定(港)/为了与你相聚(台)
+◎片　　名　A Dog's Way Home
+◎年　　代　2019
+◎产　　地　美
+◎类　　别　冒险
+◎语　　言　英语
+◎字　　幕　中英双字
+◎上映日期　2019-01-11(美国)/2019-01-18(中国大陆)
+◎IMDb评分　6.5/10 from 2,485 users
+◎豆瓣评分　6.8/10 from 6,731 users
+◎片　　长　96分钟
+◎导　　演　查尔斯·马丁·史密斯 Charles Martin Smith
+◎编　　剧　W·布鲁斯·卡梅伦 W. Bruce Cameron / 凯瑟琳·迈克 Cathryn Michon
+◎主　　演　艾什莉·贾德 Ashley Judd
+　　　　　　乔纳·豪尔-金 Jonah Hauer-King
+　　　　　　亚历山德拉·希普 Alexandra Shipp
+　　　　　　韦斯·斯塔迪 Wes Studi
+　　　　　　布莱丝·达拉斯·霍华德 Bryce Dallas Howard
+　　　　　　巴里·沃森 Barry Watson
+　　　　　　克里斯·鲍尔 Chris Bauer
+　　　　　　塔米·吉利斯 Tammy Gillis
+　　　　　　派崔克·盖勒 Patrick Gallagher
+　　　　　　爱德华·詹姆斯·奥莫斯 Edward James Olmos
+　　　　　　露西娅·沃尔特斯 Lucia Walters
+　　　　　　莱恩·爱德华兹 Lane Edwards
+　　　　　　约翰·卡西尼 John Cassini
+　　　　　　本杰明·拉特纳 Benjamin Ratner
+　　　　　　斯宾塞·德雷弗 Spencer Drever
+　　　　　　阿丽尔·图里奥 Arielle Tuliao
+　　　　　　詹妮弗吉普森 Jennifer Gibson
+　　　　　　罗南多·博伊斯 Rolando Boyce
+　　　　　　法拉赫·阿维瓦 Farrah Aviva
+　　　　　　达西·劳瑞 Darcy Laurie
+　　　　　　特洛伊·鲁道夫 Troy Rudolph
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:BYHIO54URGLN6PMTXIBAUJ37IVFYJDHC&dn=%e4%b8%80%e6%9d%a1%e7%8b%97%e7%9a%84%e5%9b%9e%e5%ae%b6%e8%b7%af%2e1080p%2e%e5%9b%bd%e8%8b%b1%e5%8f%8c%e8%af%ad%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 24] ERROR [exec: get_db.py 26] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Way Home\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000美\r\n◎类\u3000\u3000别\u3000冒' at line 1")
+[2019-03-27 18: 58: 24] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 24] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-21/35886.html HTTP/1.1" 200 7739
+[2019-03-27 18: 58: 24] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 24] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-21/35886.html HTTP/1.1" 200 7739
+[2019-03-27 18: 58: 24] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 24] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-21/35886.html HTTP/1.1" 200 7739
+[2019-03-27 18: 58: 24] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 24] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:76VIEYXNMPSQTQZT4L2QT7HRMEDNR55E&dn=%e9%87%8d%e5%a1%91%e4%ba%ba%e7%94%9f%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 8] 电影名: 重塑人生
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy3/2019-03-21/35886.html
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 10] 电影信息: 
+◎简　　介 
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 11] 电影简介: 　　本片由彼得·西格尔([初恋50次])执导，贾斯汀·扎克汉姆([遗愿清单])操刀剧本。故事围绕大型零售商女店员(洛佩兹饰)展开。她努力让人生与众不同，更要向世人表明街头智慧的强大。凡妮莎·哈金斯在片中饰演年轻的消费品公司执行官。
+[2019-03-27 18: 58: 24] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:76VIEYXNMPSQTQZT4L2QT7HRMEDNR55E&dn=%e9%87%8d%e5%a1%91%e4%ba%ba%e7%94%9f%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 24] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 25] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-21/35885.html HTTP/1.1" 200 8882
+[2019-03-27 18: 58: 25] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 25] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-21/35885.html HTTP/1.1" 200 8882
+[2019-03-27 18: 58: 25] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 25] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-21/35885.html HTTP/1.1" 200 8882
+[2019-03-27 18: 58: 25] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 25] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:7UC3ADPNQWLIJLKL2PZ66B6TPOJJDVJQ&dn=%e6%96%af%e5%9d%a6%e5%92%8c%e5%a5%a5%e5%88%a9%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 25] INFO [log_info: log_info.py 8] 电影名: 斯坦和奥利
+[2019-03-27 18: 58: 25] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-21/35885.html
+[2019-03-27 18: 58: 25] INFO [log_info: log_info.py 10] 电影信息: 
+◎简　　介 
+[2019-03-27 18: 58: 25] INFO [log_info: log_info.py 11] 电影简介: 　　1953年，Stan Laurel和Oliver "Babe" Hardy是世界上最受欢迎的喜剧二人组，在英国综艺厅进行巡演。随着年龄的增长和他们作为好莱坞喜剧之王的黄金时代的结束，他们面临着不确定的未来。两人开始在全国各地巡回演出，观众人数少得令人失望，但是他们总是能够让彼此开怀大笑，他们表演的魅力和美丽也在观众的笑声中闪耀，他们与大批崇拜他们的粉丝重新建立了联系，不管是新的还是老的。
+[2019-03-27 18: 58: 25] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:7UC3ADPNQWLIJLKL2PZ66B6TPOJJDVJQ&dn=%e6%96%af%e5%9d%a6%e5%92%8c%e5%a5%a5%e5%88%a9%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 25] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 26] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-21/35884.html HTTP/1.1" 200 8641
+[2019-03-27 18: 58: 26] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 26] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-21/35884.html HTTP/1.1" 200 8641
+[2019-03-27 18: 58: 26] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 26] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-21/35884.html HTTP/1.1" 200 8641
+[2019-03-27 18: 58: 26] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 26] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:CUSRCUJFOHDR7ODDHBI5P3UYN3N66I4S&dn=lz%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 26] INFO [log_info: log_info.py 8] 电影名: 骡子
+[2019-03-27 18: 58: 26] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-21/35884.html
+[2019-03-27 18: 58: 26] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　骡子/毒行侠(港)/赌命运转手(台)
+◎片　　名　The Mule
+◎年　　代　2018
+◎产　　地　美国
+◎类　　别　剧情/悬疑/惊悚/犯罪
+◎语　　言　英语
+◎字　　幕　中英双字
+◎上映日期　2018-12-14(美国)
+◎IMDb评分  7.2/10 from 23414 users
+◎豆瓣评分　7.9/10 from 1267 users
+◎片　　长　116分钟
+◎导　　演　克林特·伊斯特伍德 Clint Eastwood
+◎编　　剧　尼克·申克 Nick Schenk
+◎主　　演　克林特·伊斯特伍德 Clint Eastwood
+　　　　　　布莱德利·库珀 Bradley Cooper
+　　　　　　劳伦斯·菲什伯恩 Laurence Fishburne
+　　　　　　迈克尔·佩纳 Michael Peña
+　　　　　　安迪·加西亚 Andy Garcia
+　　　　　　泰莎·法米加 Taissa Farmiga
+　　　　　　黛安·韦斯特 Dianne Wiest
+　　　　　　艾莉森·伊斯特伍德 Alison Eastwood
+　　　　　　伊格纳西奥·塞利齐奥 Ignacio Serricchio
+　　　　　　罗伯特·拉萨多 Robert LaSardo
+　　　　　　劳恩·迪恩 Loren Dean
+　　　　　　维克多·罗塞克 Victor Rasuk
+　　　　　　洛博·塞巴斯蒂安 Lobo Sebastian
+[2019-03-27 18: 58: 26] INFO [log_info: log_info.py 11] 电影简介: 
+◎简　　介 
+[2019-03-27 18: 58: 26] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:CUSRCUJFOHDR7ODDHBI5P3UYN3N66I4S&dn=lz%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 26] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 27] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-20/35883.html HTTP/1.1" 200 7809
+[2019-03-27 18: 58: 27] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 27] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-20/35883.html HTTP/1.1" 200 7809
+[2019-03-27 18: 58: 27] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 27] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-20/35883.html HTTP/1.1" 200 7809
+[2019-03-27 18: 58: 27] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 27] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:BWL5X364OBR7IV6PNS2KKUQPQ4OY52AV&dn=%e6%af%94%e6%82%b2%e4%bc%a4%e6%9b%b4%e6%82%b2s%e7%9a%84%e6%95%852009%e9%9f%a9%e7%89%88%2e720p%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 27] INFO [log_info: log_info.py 8] 电影名: 比悲伤更悲伤的故事2009韩版
+[2019-03-27 18: 58: 27] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy3/2019-03-20/35883.html
+[2019-03-27 18: 58: 27] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　比悲伤更悲伤的故事
+◎片　　名　슬픔보다 더 슬픈 이야기
+◎年　　代　2009
+◎产　　地　韩国
+◎类　　别　爱情
+◎语　　言　韩语
+◎字　　幕　中字
+◎上映日期　2009-03-12(韩国)
+◎IMDb评分　7.6/10 from 2,041人评价2,041人评价
+◎豆瓣评分　7.7/10 from 735332,041人评价2,041人评价
+◎片　　长　105 分钟
+◎导　　演　元泰渊
+◎主　　演　权相宇 / 李凡秀 / 李宝英 / 郑爱延 / 李瀚伟 / 申贤俊
+◎简　　介
+　　从小被父母遗弃的电台制作人凯伊（权相宇 饰）和因交通事故痛失双亲的作词人洛琳（李宝英 饰），两人似家人、朋友和恋人一样生活在一起，填补了彼此生活里的空席。但一场绝症让凯伊只剩下200多天生命，他不舍得留下洛琳一人决定隐瞒病情为她寻找一个可以托付终身的男人。事业有成、温柔体贴的牙医朱焕（李凡秀 饰）适时的出现，凯伊决定让他成为照顾洛琳的最佳人选。首次见到洛琳的朱焕便对其一见钟情，不可自拔，而洛琳也似乎对他存有好感。一切都在凯伊的计划中，洛琳和朱焕顺利发展着感情，并到了谈婚论嫁的地步。凯伊亲自为洛琳挑选了结婚的礼服，带着留恋和真挚的祝福在教堂牵着她的手一步一步走到朱焕身边。最后没有任何遗憾的凯伊离开了人世，而事实上，故事，远比这里所写更悲伤......
+ 
+[2019-03-27 18: 58: 27] INFO [log_info: log_info.py 11] 电影简介: 
+[2019-03-27 18: 58: 27] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:BWL5X364OBR7IV6PNS2KKUQPQ4OY52AV&dn=%e6%af%94%e6%82%b2%e4%bc%a4%e6%9b%b4%e6%82%b2s%e7%9a%84%e6%95%852009%e9%9f%a9%e7%89%88%2e720p%2eHD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 27] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 28] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-20/35882.html HTTP/1.1" 200 7499
+[2019-03-27 18: 58: 28] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 28] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-20/35882.html HTTP/1.1" 200 7499
+[2019-03-27 18: 58: 28] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 28] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-20/35882.html HTTP/1.1" 200 7499
+[2019-03-27 18: 58: 28] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 28] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 28] INFO [log_info: log_info.py 8] 电影名: 格斗吧
+[2019-03-27 18: 58: 28] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy2/2019-03-20/35882.html
+[2019-03-27 18: 58: 28] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　入铁笼/格斗吧/We Are Legends
+◎片　　名　入�F�\
+◎年　　代　2019
+◎产　　地　香港
+◎类　　别　动作
+◎语　　言　粤语
+◎字　　幕　中字
+◎上映日期　2019-03-19(中国大陆)/2019-03-21(香港)
+◎片　　长　108分钟
+◎导　　演　陈翊恒 Daniel Chan Yee-Heng
+◎编　　剧　陈翊恒 Daniel Chan Yee-Heng / 梁鸿华 Tony Leung Hung-Wah / 庸材 / 蔡素文
+◎主　　演　林耀声 Yiu-Sing Lam
+　　　　  　马志威 Edward Ma
+　　　　  　元秋 Qiu Yuen
+　　　　  　葛民辉 Eric Kot
+　　　　  　黎美言 Winkie Lai
+  　　　  　杨柳青 Wiyona Yeung
+　　　　  　周殷廷 Yan Ting
+　　　　  　林�增�
+　　　　  　张沛乐 Charlotte Cheung
+　　　　  　郑丽莎 Lisa Cheng
+　　　　  　李宗�� Jason Li
+　　　　  　罗天池 Eddie Law Tin Chi
+　　　　  　李逸朗 Yat-long Li
+[2019-03-27 18: 58: 28] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 28] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 28] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 29] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35881.html HTTP/1.1" 200 7016
+[2019-03-27 18: 58: 29] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 29] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35881.html HTTP/1.1" 200 7016
+[2019-03-27 18: 58: 29] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 29] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35881.html HTTP/1.1" 200 7016
+[2019-03-27 18: 58: 29] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 29] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 29] INFO [log_info: log_info.py 8] 电影名: 大路朝天
+[2019-03-27 18: 58: 29] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-20/35881.html
+[2019-03-27 18: 58: 29] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　The Connection
+◎片　　名　大路朝天
+◎年　　代　2018
+◎产　　地　中国大陆
+◎类　　别　剧情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎上映日期　2018-12-22(中国大陆)
+◎片　　长　120分钟
+◎导　　演　苗月 Yue Miao
+◎编　　剧　苗月 Yue Miao
+◎主　　演　李保田 Baotian Li
+　　　　  　陈瑾 Jin Chen
+　　　　  　巴登西绕
+　　　　  　张政勇 Zhengyong Zhang
+　　　　  　孙敏 Min Sun
+　　　　  　白威 Wei Bai
+　　　　  　郭晓峰 Xiaofeng Guo
+　　　　  　孙艺杨
+◎简　　介
+[2019-03-27 18: 58: 29] INFO [log_info: log_info.py 11] 电影简介: 　　《大路朝天》以四川公路建设为切口，以成雅高速、雅西高速、雅康高速建设为题材，通过讲述祖孙三代路桥工人伴随改革开放40年经历的命运和情感故事，折射出时代发展与变迁。
+[2019-03-27 18: 58: 29] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 29] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 30] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-03-20/35879.html HTTP/1.1" 200 6694
+[2019-03-27 18: 58: 30] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 30] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-03-20/35879.html HTTP/1.1" 200 6694
+[2019-03-27 18: 58: 30] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 30] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy6/2019-03-20/35879.html HTTP/1.1" 200 6694
+[2019-03-27 18: 58: 30] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 30] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 30] INFO [log_info: log_info.py 8] 电影名: 怪兽应变
+[2019-03-27 18: 58: 30] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy6/2019-03-20/35879.html
+[2019-03-27 18: 58: 30] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　怪兽应变 
+◎片　　名　Chimera Strain 
+◎年　　代　2018 
+◎产　　地　美国 
+◎类　　别　剧情/科幻/惊悚 
+◎语　　言　英语 
+◎字　　幕　中英双字 
+◎IMDb评分　4.9/10 from 257 users 
+◎文件格式　x264 + aac 
+◎视频尺寸　1280 x 720 
+◎文件大小　1CD 
+◎导　　演　Maurice Haeems 
+◎编　　剧　Maurice Haeems 
+◎主　　演　亨利·伊安·库斯克 Henry Ian Cusick ....Quint 
+　　　　　　凯瑟琳·奎南 Kathleen Quinlan ....Masterson 
+　　　　　　Erika Ervin ....Dita Gruze 
+　　　　　　詹娜·哈里森 Jenna Harrison ....Charlie 
+　　　　　　Karishma Ahluwalia ....Jessie 
+　　　　　　Jennifer Gjulameti ....Griffin 
+　　　　　　Raviv Haeems ....Miles 
+　　　　　　Kaavya Jayaram ....Flora 
+　　　　　　Rest of cast listed alphabetically: 
+　　　　　　Lawrence Sampson ....Luke
+[2019-03-27 18: 58: 30] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 30] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 30] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 31] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35878.html HTTP/1.1" 200 7710
+[2019-03-27 18: 58: 31] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 32] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35878.html HTTP/1.1" 200 7710
+[2019-03-27 18: 58: 32] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 32] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-20/35878.html HTTP/1.1" 200 7710
+[2019-03-27 18: 58: 32] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 32] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 32] INFO [log_info: log_info.py 8] 电影名: 乌鸦的拇指
+[2019-03-27 18: 58: 32] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-20/35878.html
+[2019-03-27 18: 58: 32] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　乌鸦的拇指 
+◎片　　名　カラスの�H指 / Crow's Thumb / Karasu no oyayubi 
+◎年　　代　2012 
+◎产　　地　日本 
+◎类　　别　剧情/悬疑 
+◎语　　言　日语 
+◎字　　幕　中字 
+◎上映日期　2012-11-23(日本)  
+◎文件格式　x264 + aac 
+◎视频尺寸　1280 x 720 
+◎文件大小　1CD 
+◎片　　长　160分钟 
+◎导　　演　伊藤匡史 Tadafumi Ito 
+◎编　　剧　伊藤匡史 Tadafumi Ito / 道尾秀介 Shusuke Michio 
+◎主　　演　阿部宽 Hiroshi Abe 
+　　　　　　石原里美 Satomi Ishihara 
+　　　　　　Shôji Murakami 
+　　　　　　能年玲奈 Rena Nônen 
+　　　　　　小柳友 Yû Koyanagi
+[2019-03-27 18: 58: 32] INFO [log_info: log_info.py 11] 电影简介: ◎标　　签　日本 | 阿部宽 | 日本电影 | 悬疑 | 推理 | 石原里美 | 2012 | 日影 
+◎简　　介
+[2019-03-27 18: 58: 32] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 32] ERROR [exec: get_db.py 26] (1064, "You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Thumb / Karasu no oyayubi \r\n◎年\u3000\u3000代\u30002012 \r\n◎产\u3000\u3000地\u3000日本 ' at line 1")
+[2019-03-27 18: 58: 32] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 32] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-19/35875.html HTTP/1.1" 200 7293
+[2019-03-27 18: 58: 32] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 33] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-19/35875.html HTTP/1.1" 200 7293
+[2019-03-27 18: 58: 33] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 33] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy2/2019-03-19/35875.html HTTP/1.1" 200 7293
+[2019-03-27 18: 58: 33] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 33] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:OJ55C7A32FZH23LMKIOG6KZ2UCDF6AJ5&dn=%e6%9c%80%e5%90%8e%e4%b8%80%e4%ba%ba%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 33] INFO [log_info: log_info.py 8] 电影名: 最后一人
+[2019-03-27 18: 58: 33] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy2/2019-03-19/35875.html
+[2019-03-27 18: 58: 33] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　最后一人
+◎片　　名　Numb, at the Edge of the End
+◎年　　代　2018
+◎产　　地　阿根廷/加拿大
+◎类　　别　剧情/动作/科幻
+◎语　　言　英语
+◎字　　幕　中英双字
+◎上映日期　2019-01-18(美国)
+◎IMDb评分  4.3/10 from 349 users
+◎片　　长　100分钟
+◎导　　演　罗德里格·H·维拉 Rodrigo H. Vila
+◎编　　剧　罗德里格·H·维拉 Rodrigo H. Vila / 丹·布什 Dan Bush
+◎主　　演　海登·克里斯滕森 Hayden Christensen
+　　　　　　哈威·凯特尔 Harvey Keitel
+　　　　　　马克·莱昂纳蒂 Marco Leonardi
+　　　　　　Justin Kelly
+　　　　　　Fernán Mirás
+[2019-03-27 18: 58: 33] INFO [log_info: log_info.py 11] 电影简介: 
+◎简　　介 
+[2019-03-27 18: 58: 33] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:OJ55C7A32FZH23LMKIOG6KZ2UCDF6AJ5&dn=%e6%9c%80%e5%90%8e%e4%b8%80%e4%ba%ba%2e720p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 33] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 33] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-08-30/34604.html HTTP/1.1" 200 8749
+[2019-03-27 18: 58: 33] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 33] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-08-30/34604.html HTTP/1.1" 200 8749
+[2019-03-27 18: 58: 34] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 34] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2018-08-30/34604.html HTTP/1.1" 200 8749
+[2019-03-27 18: 58: 34] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 34] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:SYK3XF2PKG3QVMZTLC5P2E7H3TEBTDZ4&dn=%e5%90%8d%e4%be%a6%e6%8e%a2%e6%9f%af%e5%8d%97%ef%bc%9a%e9%9b%b6%e7%9a%84%e6%89%a7%e8%a1%8c%e4%ba%ba%2e1080p%2e%e5%9b%bd%e7%b2%a4%e6%97%a5%e4%b8%89%e8%af%ad%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 34] INFO [log_info: log_info.py 8] 电影名: 名侦探柯南：零的执行人
+[2019-03-27 18: 58: 34] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy4/2018-08-30/34604.html
+[2019-03-27 18: 58: 34] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　名侦探柯南：零的执行人/名侦探柯南：零之执行人/名侦探柯南2018
+◎片　　名　名探�丧偿圣� ゼロの�绦腥�
+◎年　　代　2018
+◎产　　地　日本
+◎类　　别　动画/悬疑
+◎语　　言　日语
+◎字　　幕　中字
+◎上映日期　2018-04-13(日本)/2018(中国大陆)
+◎豆瓣评分　6.8/10 from 961 users
+◎片　　长　110分钟
+◎导　　演　立川让 Yuzuru Tachikawa
+◎主　　演　高山南 Minami Takayama
+　　　　　　山口胜平 Kappei Yamaguchi
+　　　　　　山崎和佳奈 Wakana Yamazaki
+　　　　　　小山力也 Rikiya Koyama
+　　　　　　绪方贤一 Kenichi Ogata
+　　　　　　林原惠美 Megumi Hayashibara
+　　　　　　古谷彻 Tôru Furuya
+　　　　　　置鲇龙太郎 Ryôtarô Okiayu
+[2019-03-27 18: 58: 34] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+　　一场大规模的恐怖袭击，一个牵扯无数内幕的神秘组织，这个关乎整个东京的可怕计划即将拉开帷幕…首脑云集的东京峰会举办在即，会场突然发生超大规模的爆炸事件，不仅在现场发现行踪诡异的安室透，毛利小五郎更是惨遭陷害。面对最危险任务，最烧脑的推理，最艰难的博弈，柯南能否在迷雾中寻找到唯一的真相。
+[2019-03-27 18: 58: 34] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:SYK3XF2PKG3QVMZTLC5P2E7H3TEBTDZ4&dn=%e5%90%8d%e4%be%a6%e6%8e%a2%e6%9f%af%e5%8d%97%ef%bc%9a%e9%9b%b6%e7%9a%84%e6%89%a7%e8%a1%8c%e4%ba%ba%2e1080p%2e%e5%9b%bd%e7%b2%a4%e6%97%a5%e4%b8%89%e8%af%ad%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 34] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 34] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-14/35848.html HTTP/1.1" 200 8843
+[2019-03-27 18: 58: 34] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 34] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-14/35848.html HTTP/1.1" 200 8843
+[2019-03-27 18: 58: 34] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 35] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-14/35848.html HTTP/1.1" 200 8843
+[2019-03-27 18: 58: 35] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 35] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:JG6QMLHQZ6IVOX4UWWYHSVTIED4WO3UU&dn=%e5%ba%93%e5%b0%94%e6%96%af%e5%85%8b%2e1080p%2eBD%e4%bf%ae%e6%ad%a3%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 35] INFO [log_info: log_info.py 8] 电影名: 库尔斯克
+[2019-03-27 18: 58: 35] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-14/35848.html
+[2019-03-27 18: 58: 35] INFO [log_info: log_info.py 10] 电影信息: 
+◎简　　介 
+[2019-03-27 18: 58: 35] INFO [log_info: log_info.py 11] 电影简介: 　　《库尔斯克》的故事聚焦2000年俄罗斯核潜艇“库尔斯克”沉没事件。彼时进行作战训练的库尔斯克号艇内鱼雷自爆，118位船员全部罹难。事件也成了历史上最严重的潜水艇事故。
+俄罗斯库尔斯克号核潜艇是当时世界最先进、最大的战术核潜艇之一，专门用来攻击航空母舰，曾被媒体誉为“航母终结者”。像“泰坦尼克”号超级油轮一样，库尔斯克号核潜艇也曾经被认为是“永不沉没”的潜艇。
+[2019-03-27 18: 58: 35] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:JG6QMLHQZ6IVOX4UWWYHSVTIED4WO3UU&dn=%e5%ba%93%e5%b0%94%e6%96%af%e5%85%8b%2e1080p%2eBD%e4%bf%ae%e6%ad%a3%e4%b8%ad%e8%8b%b1%e5%8f%8c%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 35] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 36] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-19/35874.html HTTP/1.1" 200 6524
+[2019-03-27 18: 58: 36] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 36] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-19/35874.html HTTP/1.1" 200 6524
+[2019-03-27 18: 58: 36] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 36] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy3/2019-03-19/35874.html HTTP/1.1" 200 6524
+[2019-03-27 18: 58: 36] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 36] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 36] INFO [log_info: log_info.py 8] 电影名: 蓝色生死恋
+[2019-03-27 18: 58: 36] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy3/2019-03-19/35874.html
+[2019-03-27 18: 58: 36] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　蓝色生死恋
+◎片　　名　蓝色生死恋
+◎年　　代　2019
+◎产　　地　中国大陆
+◎类　　别　爱情
+◎语　　言　汉语普通话
+◎字　　幕　中字
+◎片　　长　104分钟
+◎上映日期　2019-02-14(中国大陆)
+◎IMDb评分　/10 from  users
+◎导　　演　王才涛
+◎主　　演　许凯
+　　　　　　赵露思
+　　　　　　焦睿
+　　　　　　梁婧娴
+　　　　　　孟美岐
+　　　　　　张檬
+　　　　　　何明翰
+　　　　　　张秋歌
+　　　　　　杨大鹏
+[2019-03-27 18: 58: 36] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介
+[2019-03-27 18: 58: 36] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 36] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 37] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2019-03-18/35873.html HTTP/1.1" 200 6609
+[2019-03-27 18: 58: 37] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 37] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2019-03-18/35873.html HTTP/1.1" 200 6609
+[2019-03-27 18: 58: 37] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 37] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /dy4/2019-03-18/35873.html HTTP/1.1" 200 6609
+[2019-03-27 18: 58: 37] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 37] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 37] INFO [log_info: log_info.py 8] 电影名: 钢铁飞龙之奥特曼崛起
+[2019-03-27 18: 58: 37] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/dy4/2019-03-18/35873.html
+[2019-03-27 18: 58: 37] INFO [log_info: log_info.py 10] 电影信息: 　　创世晶石危机一触即发，为了阻止地球毁灭，奥特曼选择了看似平凡的小男孩乐乐作为自己的人间体，面对重重挑战，原本调皮捣蛋的小屁孩在奥特曼的引导下，成为拯救地球的关键人物，而奥特曼超能力的秘密也逐渐被揭晓……
+[2019-03-27 18: 58: 37] INFO [log_info: log_info.py 11] 电影简介: 
+[2019-03-27 18: 58: 37] INFO [log_info: log_info.py 12] 磁链接: None
+[2019-03-27 18: 58: 37] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 38] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-06/35813.html HTTP/1.1" 200 8144
+[2019-03-27 18: 58: 38] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 38] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-06/35813.html HTTP/1.1" 200 8144
+[2019-03-27 18: 58: 38] DEBUG [_new_conn: connectionpool.py 205] Starting new HTTP connection (1): www.6vhao.tv:80
+[2019-03-27 18: 58: 38] DEBUG [_make_request: connectionpool.py 393] http://www.6vhao.tv:80 "GET /jddy/2019-03-06/35813.html HTTP/1.1" 200 8144
+[2019-03-27 18: 58: 38] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 38] INFO [get_magnet: exec_list.py 32] 数据不存在!
+[2019-03-27 18: 58: 38] INFO [get_magnet: exec_list.py 29] magnet:?xt=urn:btih:PP2MLSMGNWJCJ4XU5QC7S67QIGRIBIFN&dn=%e4%bc%a6%e6%95%a6%e6%88%98%e5%9c%ba%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 38] INFO [log_info: log_info.py 8] 电影名: 伦敦战场
+[2019-03-27 18: 58: 38] INFO [log_info: log_info.py 9] 电影链接: http://www.6vhao.tv/jddy/2019-03-06/35813.html
+[2019-03-27 18: 58: 38] INFO [log_info: log_info.py 10] 电影信息: ◎译　　名　伦敦场地
+◎片　　名　London Fields
+◎年　　代　2018
+◎产　　地　美国
+◎类　　别　悬疑 / 惊悚 / 犯罪
+◎语　　言　英语
+◎字　　幕　中字
+◎上映日期　2018-10-26(美国)
+◎IMDb评分　4.5/10 from 825 users
+◎豆瓣评分　5.8/10 from 99 users
+◎片　　长　118分钟
+◎导　　演　马提·卡伦 Mathew Cullen
+◎编　　剧　马丁·艾米斯 Martin Amis / Roberta Hanley
+◎主　　演　提奥·詹姆斯 Theo James
+  　　　　　约翰尼·德普 Johnny Depp
+　　　　　　安布尔·赫德 Amber Heard
+　　　　　　卡拉·迪瓦伊 Cara Delevingne
+　　　　　　比利·鲍伯·松顿 Billy Bob Thornton
+　　　　　　杰米·亚历山大 Jaimie Alexander
+　　　　　　吉姆·斯特吉斯 Jim Sturgess
+　　　　　　詹森·艾萨克 Jason Isaacs
+　　　　　　嘉玛·陈 Gemma Chan
+　　　　　　莉莉·科尔 Lily Cole
+　　　　　　詹妮弗·米索妮 Jennifer Missoni
+　　　　　　克雷格·加纳 Craig Garner
+　　　　　　Hon Ping Tang
+　　　　　　Alexandra Evans
+　　　　　　Stephen McDade
+[2019-03-27 18: 58: 38] INFO [log_info: log_info.py 11] 电影简介: ◎简　　介 
+[2019-03-27 18: 58: 38] INFO [log_info: log_info.py 12] 磁链接: magnet:?xt=urn:btih:PP2MLSMGNWJCJ4XU5QC7S67QIGRIBIFN&dn=%e4%bc%a6%e6%95%a6%e6%88%98%e5%9c%ba%2e720p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c%80%e6%96%b0%e7%94%b5%e5%bd%b1www%2e66ys%2etv%5d%2emp4&tr=udp%3a%2f%2f9%2erarbg%2eto%3a2710%2fannounce&tr=udp%3a%2f%2f9%2erarbg%2eme%3a2710%2fannounce&tr=http%3a%2f%2ftr%2ecili001%2ecom%3a8070%2fannounce&tr=http%3a%2f%2ftracker%2etrackerfix%2ecom%3a80%2fannounce&tr=udp%3a%2f%2fopen%2edemonii%2ecom%3a1337&tr=udp%3a%2f%2ftracker%2eopentrackr%2eorg%3a1337%2fannounce&tr=udp%3a%2f%2fp4p%2earenabg%2ecom%3a1337
+[2019-03-27 18: 58: 38] INFO [run: add_db.py 33] (('雷霆之路', 'http://www.6vhao.tv/dy1/2019-03-27/35924.html', '◎译\u3000\u3000名\u3000雷霆之路\r\n◎片\u3000\u3000名\u3000Thunder Road\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000美国\r\n◎类\u3000\u3000别\u3000剧情 / 喜剧\r\n◎语\u3000\u3000言\u3000英语\r\n◎字\u3000\u3000幕\u3000中英双字\r\n◎上映日期\u3000201', '\r\n◎简\u3000\u3000介\r\n\u3000\u3000故事描写一个警察的失意人生，从失去母亲到失去女儿监护权再到失去工作，一步步走向自我毁灭，却又戏剧性得到救赎，用神经质式的黑色幽默，完成对中产阶级的戏谑和自嘲。', 'magnet:?xt=urn:btih:H5YQS7MTUE6ZIZB6N3K7CV6TNQOGV5TT&dn=%e9%9b%b7%e9%9c%86%e4%b9%8b%e8%b7%af%2e720p%'), ('超级洛佩兹', 'http://www.6vhao.tv/dy1/2019-03-27/35922.html', '◎译\u3000\u3000名\u3000超级洛佩兹 / Superlópez / 西班牙超人\r\n◎片\u3000\u3000名\u3000Superlópez\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000西班牙\r\n◎类\u3000\u3000别\u3000喜剧\r\n◎语\u3000\u3000言\u3000西班牙语\r\n◎字\u3000', '', 'None'), ('燃点', 'http://www.6vhao.tv/jlp/2019-03-27/35921.html', '◎译\u3000\u3000名\u3000Startups\r\n◎片\u3000\u3000名\u3000燃点\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000纪录片\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u30002019-01-11', '◎简\u3000\u3000介', 'None'), ('污垢', 'http://www.6vhao.tv/jddy/2019-03-26/35919.html', '◎译\u3000\u3000名\u3000The Dirt\r\n◎片\u3000\u3000名\u3000污垢/克鲁小丑的摇滚坏生活(台)/尘土\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000美国\r\n◎类\u3000\u3000别\u3000音乐/传记\r\n◎语\u3000\u3000言\u3000英语\r\n◎字\u3000\u3000幕\u3000中英双字\r\n', '◎简\u3000\u3000介\r\n\u3000说唱歌手MachineGunKelly加盟莫特利·克鲁乐队传记片《尘土》(TheDirt)，饰演创立者之一TommyLee，道格拉斯·布斯将饰演另一位创立者NikkiSixx。《蠢蛋搞', 'magnet:?xt=urn:btih:7JSXPRJLERONFRASH7RHBJR64JPRLJAE&dn=%e6%b1%a1%e5%9e%a2%2e720p%2eBD%e4%b8%ad%e8%8'), ('世界最长的照片', 'http://www.6vhao.tv/jddy/2019-03-26/35918.html', '◎译\u3000\u3000名\u3000世界最长的照片\r\n◎片\u3000\u3000名\u3000世界でいちばん�Lい写真/The World‘s Longest Photograph\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000日本\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语', '◎简\u3000\u3000介', 'magnet:?xt=urn:btih:FI2CAOHGW4Z55653BCXHXULIZ5BTNCIB&dn=%e4%b8%96%e7%95%8c%e6%9c%80%e9%95%bf%e7%9a%8'), ('白小姐', 'http://www.6vhao.tv/jddy/2018-12-31/35451.html', '◎译\u3000\u3000名\u3000白小姐 / Miss Baek / Miss 白\r\n◎片\u3000\u3000名\u3000미쓰백\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000韩国\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语\u3000\u3000言\u3000韩语\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期', '\r\n◎简\u3000\u3000介\xa0', 'magnet:?xt=urn:btih:5A7ZRQ57GSKRAOVIWSHGNF3VCEMWI4AO&dn=%e7%99%bd%e5%b0%8f%e5%a7%90%2e1080p%2eBD%e4%'), ('Hello树先生', 'http://www.6vhao.tv/dy1/2019-03-26/35917.html', '◎中 文 名\u3000Hello！树先生/树\r\n◎英 文 名\u3000Mr. Tree \r\n◎年\u3000\u3000代\u30002011\r\n◎国\u3000\u3000家\u3000中国\r\n◎类\u3000\u3000别\u3000喜剧/奇幻\r\n◎语\u3000\u3000言\u3000国语\r\n◎字\u3000\u3000幕\u3000中文/英文\r\n◎IMD', '\n\n', 'magnet:?xt=urn:btih:QRZX5OOFXOEUAQHQBR6NSEIBFP22QHRW&dn=Hello%ef%bc%81%e6%a0%91%e5%85%88%e7%94%9f%2e'), ('忠犬情缘', 'http://www.6vhao.tv/dy1/2019-03-26/35916.html', '◎译\u3000\u3000名\u3000忠犬情缘 \r\n◎年\u3000\u3000代\u30002017 \r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情/喜剧/爱情 \r\n◎语\u3000\u3000言\u3000汉语普通话 \r\n◎字\u3000\u3000幕\u3000中字 \r\n◎上映日期\u30002017-07-30(上海国', '◎简\u3000\u3000介', 'magnet:?xt=urn:btih:AU4U7SOZ7LBDNLINKQTEEPJHAUNMUBRU&dn=%e5%bf%a0%e7%8a%ac%e6%83%85%e7%bc%98%2e1080p'), ('嗜血将军2白皮少女', 'http://www.6vhao.tv/dy2/2019-03-26/35915.html', '◎译\u3000\u3000名\u3000嗜血将军2白皮少女\r\n◎片\u3000\u3000名\u3000嗜血将军2白皮少女\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000动作/惊悚/悬疑\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎片\u3000', '◎简\u3000\u3000介', 'magnet:?xt=urn:btih:HKLZFXUHQHQ2ATKVA5NJ4HKKZMFOX7MU&dn=%e5%97%9c%e8%a1%80%e5%b0%86%e5%86%9b2%e7%99%'), ('一生', 'http://www.6vhao.tv/dy3/2019-03-26/35914.html', '一生 Life Itself (2018) /生命中的美好意外(台) / 生活本身 / 人生如戏\r\n导演: 丹·福格尔曼\r\n编剧: 丹·福格尔曼\r\n主演: 奥利维亚·库克 / 奥斯卡·伊萨克 / 奥利', '一生的剧情简介\r\n\u3000\u3000奥斯卡·伊萨克将出演新片《一生》(Life Itself，暂译)，导演丹·福格尔曼负责编剧、执导，2017年春天开始制作。背景在纽约的西班牙郊区，奥斯卡·伊萨克饰演的角色将串联起', 'magnet:?xt=urn:btih:XN243MRQAECQWV22M6SKP2UCYBS2Q4ZS&dn=%e4%b8%80%e7%94%9f%2e720p%2eBD%e4%b8%ad%e5%a'), ('斗罗大陆动画版', 'http://www.6vhao.tv/dy4/2018-12-17/35375.html', '◎译\u3000\u3000名\u3000斗罗大陆动画版 第二季\r\n◎片\u3000\u3000名\u3000斗罗大陆 第二季\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情 / 动画 / 奇幻\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字', '【下载地址】', 'magnet:?xt=urn:btih:PQWHZU5E4IXDD76STTNPBJ7UY6ZC7ANB&dn=%e6%96%97%e7%bd%97%e5%a4%a7%e9%99%8601%2d30&'), ('三次元女友', 'http://www.6vhao.tv/dy3/2019-03-25/35910.html', '◎简\u3000\u3000介\xa0', '\u3000\u3000筒井光（佐野勇斗 饰），是个只喜爱游戏动漫的高中生，奉二次元世界中的动画女主角魔法少女为神。某天因为迟到而要和校内的现充美少女，五十岚色叶（中条彩未 饰）一起打扫游泳池，色叶突然向光告白并开始交往', 'magnet:?xt=urn:btih:KBIANTBPSI3JLTR6PCJD7U5FX3U3QQFF&dn=%e4%b8%89%e6%ac%a1%e5%85%83%e5%a5%b3%e5%8f%8'), ('大黄蜂', 'http://www.6vhao.tv/dy6/2019-01-14/35548.html', '◎译\u3000\u3000名\u3000Bumblebee\r\n◎片\u3000\u3000名\u3000大黄蜂/大黄蜂大电影/大黄蜂独立电影/变形金刚外传：大黄蜂/变形金刚外传大黄蜂/Brighton Falls\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000美国\r', '◎简\u3000\u3000介\r\n\u3000\u3000本片故事设定在1987年，正值青春期的18岁少女查理Charlie（海莉·斯坦菲尔德饰）在加州海边小镇的废弃场里发现了伤痕累累的大黄蜂，他们之间会发生怎样的故事呢？让我们拭目以待！\r', 'magnet:?xt=urn:btih:N7HVRO3UYIQQWDU7QQOYJ25TIBKECELM&dn=dhf%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%'), ('妖兽都市', 'http://www.6vhao.tv/dy2/2019-03-25/35909.html', '◎简\u3000\u3000介', '\u3000\u3000故事发生在未来世界，阿龙（黎明 饰）和阿强（张学友 饰）都是抓捕妖兽的特警队警员，但是上司（袁和平 饰）非常器重阿龙，而对阿强就戒心重重。阿强气不过在酒吧买醉，得到了女友（李若彤 饰）的支持宽慰。', 'magnet:?xt=urn:btih:4NJH6HOE3BWXS5G6C5Y6Q67Y7C2NGDI7&dn=%e5%a6%96%e5%85%bd%e9%83%bd%e5%b8%82%2e720p%'), ('奔向大海', 'http://www.6vhao.tv/jddy/2019-03-25/35908.html', '◎译\u3000\u3000名\u3000奔向大海/�碜源蠛５哪腥�(台) /幻海奇男(港)\r\n◎片\u3000\u3000名\u3000海を�lける/The Man from the Sea\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000日本/法国/印度尼西亚\r\n◎', '◎简\u3000\u3000介', 'magnet:?xt=urn:btih:WLQE4KCCIFUXRV7MV4T7UOPREHXDFDCR&dn=%e5%a5%94%e5%90%91%e5%a4%a7%e6%b5%b7%2e720p%'), ('猫是要抱着的', 'http://www.6vhao.tv/jddy/2019-03-25/35907.html', '◎译\u3000\u3000名\u3000猫是要抱着的/猫是用来抱的(台)\r\n◎片\u3000\u3000名\u3000猫は抱くもの/The Cat in Their Arms\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000日本\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语\u3000\u3000言\u3000日语', '◎简\u3000\u3000介', 'magnet:?xt=urn:btih:5Y64GDVAJMUR5CQ34WHLPHJXHGGWA6EH&dn=%e7%8c%ab%e6%98%af%e8%a6%81%e6%8a%b1%e7%9d%8'), ('小偷家族', 'http://www.6vhao.tv/jddy/2019-02-14/35699.html', '◎译\u3000\u3000名\u3000小偷家族 / Manbiki kazoku / Shoplifters / Une Affaire de Famille\r\n◎片\u3000\u3000名\u3000万引き家族\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000日', '◎简\u3000\u3000介\r\n\u3000\u3000东京的都市丛林中央，残存着一栋古旧寒酸的老房子，这里局促地生活着柴田一家五口人。在工地当临时工的男人阿治（Lily Franky 饰）经常带着儿子祥太（城桧吏 饰）到超市盗窃生活用品', 'magnet:?xt=urn:btih:V7UP6NFQIMQJC6ENN2AAOO3SD3TS5WVF&dn=xtjz%2e1080p%2eBD%e4%b8%ad%e5%ad%97%5b%e6%9c'), ('紧急救命', 'http://www.6vhao.tv/jddy/2019-03-20/35880.html', '紧急救命 ���霭� 紧急救命电影版 / 蓝色急救 / 蓝色信号 / 空中急诊英雄(台) / Code Blue', '◎译\u3000\u3000名\u3000紧急救命/空中急诊英雄(台)\r\n◎片\u3000\u3000名\u3000���霭� コ�`ド・ブル�`-ドクタ�`ヘリ�o急救命-/Code Blue the Movie\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000日本\r', 'magnet:?xt=urn:btih:257PLMZUWMNUEK42VSVPCOSLCO4IDA77&dn=%e7%b4%a7%e6%80%a5%e6%95%91%e5%91%bd%2e1080p'), ('顺流逆流', 'http://www.6vhao.tv/dy2/2019-03-24/35906.html', '◎简\u3000\u3000介\xa0', '\u3000\u3000年轻人阿政（谢霆锋饰）总想着能有不一样的生活，向往去南美。一次偶然，他邂逅卧底女警察（徐子淇饰），当上了“准爸爸”。为了筹钱抚养女方肚中的孩子，阿杰辞掉了酒吧招待的工作，跟随吉叔（黄秋生饰）做起了', 'magnet:?xt=urn:btih:HPC57RPCYNQGBJLGFA23LIIEJ4XOAD4M&dn=%e9%a1%ba%e6%b5%81%e9%80%86%e6%b5%81%2e720p%'), ('海王[国语]', 'http://www.6vhao.tv/dy6/2019-03-24/35905.html', '◎译\u3000\u3000名\u3000海王/人鱼哥(豆友译名)/水人/水行侠(港/台)/潜水侠\r\n◎片\u3000\u3000名\u3000Aquaman\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000澳大利亚/美国\r\n◎类\u3000\u3000别\u3000动作/奇幻/冒险\r\n◎语\u3000\u3000言\u3000', '◎简\u3000\u3000介\r\n\u3000\u3000许多年前，亚特兰蒂斯女王（妮可·基德曼 Nicole Kidman 饰）和人类相知相恋，共同孕育了爱情的结晶——后来被陆地人称为海王的亚瑟·库瑞（杰森·莫玛 Jason Momoa', 'magnet:?xt=urn:btih:M56AAZA6VXFOG3VEU3MS4FDXPSO6XHFN&dn=%e6%b5%b7%e7%8e%8b%2e1080p%2eBD%e5%9b%bd%e8%'), ('蜘蛛侠：平行宇宙', 'http://www.6vhao.tv/dy4/2018-12-28/35426.html', '\r\n◎译\u3000\u3000名\u3000蜘蛛侠：平行宇宙 / Spider-Man: a New Universe / 蜘蛛人：新宇宙(台) / 蜘蛛侠：平行世界 / 蜘蛛侠：新纪元 / 蜘蛛侠：跳入蜘蛛宇宙(港)\r\n◎片\u3000', '◎简\u3000\u3000介\r\n\u3000\u3000迈尔斯（沙梅克·摩尔 配音）的父亲是一位一板一眼的警官，而他的母亲则是一名工作勤奋的护士。慈爱的父母对于孩子的成就非常自豪，也希望他能够融入新加入的这所优秀的学校，在这里取得成功。然', 'magnet:?xt=urn:btih:7R22KTKNHGLIYM3TPPRQ4P2YVRT5TPJG&dn=%e8%9c%98%e8%9b%9b%e4%be%a0%ef%bc%9a%e5%b9%b'), ('雪葬', 'http://www.6vhao.tv/jddy/2019-03-24/35904.html', '◎译\u3000\u3000名\u3000雪葬/Snowfall\r\n◎片\u3000\u3000名\u3000雪·葬\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u30002018-04', '◎简\u3000\u3000介', 'None'), ('破门', 'http://www.6vhao.tv/jddy/2019-03-24/35903.html', '◎译\u3000\u3000名\u3000You’ll Never Walk Alone\r\n◎片\u3000\u3000名\u3000破门\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语\u3000\u3000言\u3000汉语普通话◎上映日期\u30002018-05-', '\xa0◎简\u3000\u3000介', 'None'), ('内联升传奇', 'http://www.6vhao.tv/jddy/2019-03-24/35902.html', '◎片\u3000\u3000名\u3000内联升传奇\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u30002018-09-13(中国大陆)\r\n◎片\u3000\u3000长\u3000', '◎简\u3000\u3000介', 'None'), ('我的上高', 'http://www.6vhao.tv/jddy/2019-03-24/35901.html', '◎译\u3000\u3000名\u3000The Old Day in Shanggao\r\n◎片\u3000\u3000名\u3000我的上高\r\n◎年\u3000\u3000代\u30002017\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情 / 战争\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕', '\u3000\u3000电影《我的上高》以上高会战为背景，再现了上高会战时期，上高普通民众支援抗战、痛击日本侵略者的一段感人故事。闻名中外的“上高会战”又称“上高战役”或“锦江会战”，被称为是上世纪抗战以来最精彩的一战：', 'None'), ('独家记忆之再见爱', 'http://www.6vhao.tv/dy3/2019-03-24/35898.html', '◎译\u3000\u3000名\u3000独家记忆之再见爱\r\n◎片\u3000\u3000名\u3000独家记忆番外之再见爱\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000爱情\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u3000201', '◎简\u3000\u3000介', 'None'), ('独家记忆之勇敢爱', 'http://www.6vhao.tv/dy3/2019-03-24/35897.html', '◎译\u3000\u3000名\xa0\xa0\xa0 独家记忆之勇敢爱\r\n◎片\u3000\u3000名\u3000独家记忆番外之勇敢爱\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000爱情\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u3000', '◎简\u3000\u3000介', 'None'), ('天渠', 'http://www.6vhao.tv/jddy/2019-03-24/35896.html', '◎译\u3000\u3000名\u3000Sky Stream\r\n◎片\u3000\u3000名\u3000天渠\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u30002018-11-3', '◎简\u3000\u3000介\r\n\u3000\u3000讲述被 授予“时代楷模”称号\xa0\xa0、贵州遵义仡佬族乡村干部黄大发，从20世纪60年代起，历时30余年，带领群众在绝壁上凿出一条长9400米、地跨3个村的“天渠”，践行了新时期愚公移山精', 'None'), ('午夜迷案', 'http://www.6vhao.tv/jddy/2019-03-24/35894.html', '◎译\u3000\u3000名\u3000Mist in the Midnight\r\n◎片\u3000\u3000名\u3000午夜迷案\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000悬疑\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映', '◎简\u3000\u3000介', 'None'), ('廉政风云', 'http://www.6vhao.tv/jddy/2019-03-22/35892.html', '◎译\u3000\u3000名\u3000廉政风云/廉政风云·烟幕/Integrity\r\n◎片\u3000\u3000名\u3000廉政�L�� ��幕\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000中国香港/中国大陆\r\n◎类\u3000\u3000别\u3000剧情/悬疑/犯罪\r\n◎语\u3000\u3000言\u3000国', '\r\n◎简\u3000\u3000介\r\n\u3000\u3000廉政公署一宗经历多年调查的严重非法内销行贿案件，竟因首被告理达贸易集团负责人陈超群弃保潜逃，以及唯一重要证人兼举报者，理达的前任财务总监许植尧（张家辉饰）缺席出庭作证，导致法庭勒', 'magnet:?xt=urn:btih:HNHX3CYLL6ZFZ2Z32QDWCXYWDSCSHX4Z&dn=lzfy%2e1080p%2e%e5%9b%bd%e7%b2%a4%e5%8f%8c%e'), ('国家破产之日', 'http://www.6vhao.tv/jddy/2019-01-04/35473.html', '◎译\u3000\u3000名\u3000国家破产之日 / Default / National Bankruptcy Day / Sovereign Default / 分秒币争(台) / 国家不渡之日\r\n◎片\u3000\u3000名\u3000국가부도의', '◎简\u3000\u3000介\r\n\u3000\u3000《国家破产之日》将镜头对准了1997年的亚洲金融风暴。讲述国家破产前的一周时间内，想要阻止危机的人和追逐利益的人身上发生的故事。金慧秀在片中饰演最早预见破产并开始寻找对策的韩国银行通', 'magnet:?xt=urn:btih:HM6B3PPK7DUDGBLVEX3SWEREX7C5NKG4&dn=%e5%9b%bd%e5%ae%b6%e7%a0%b4%e4%ba%a7%e4%b9%8'), ('重塑人生', 'http://www.6vhao.tv/dy3/2019-03-21/35886.html', '\r\n◎简\u3000\u3000介\xa0', '\u3000\u3000本片由彼得·西格尔([初恋50次])执导，贾斯汀·扎克汉姆([遗愿清单])操刀剧本。故事围绕大型零售商女店员(洛佩兹饰)展开。她努力让人生与众不同，更要向世人表明街头智慧的强大。凡妮莎·哈金斯在片', 'magnet:?xt=urn:btih:76VIEYXNMPSQTQZT4L2QT7HRMEDNR55E&dn=%e9%87%8d%e5%a1%91%e4%ba%ba%e7%94%9f%2e720p%'), ('斯坦和奥利', 'http://www.6vhao.tv/jddy/2019-03-21/35885.html', '\r\n◎简\u3000\u3000介\xa0', '\u3000\u30001953年，Stan Laurel和Oliver "Babe" Hardy是世界上最受欢迎的喜剧二人组，在英国综艺厅进行巡演。随着年龄的增长和他们作为好莱坞喜剧之王的黄金时代的结束，他们面临着不确', 'magnet:?xt=urn:btih:7UC3ADPNQWLIJLKL2PZ66B6TPOJJDVJQ&dn=%e6%96%af%e5%9d%a6%e5%92%8c%e5%a5%a5%e5%88%a'), ('骡子', 'http://www.6vhao.tv/jddy/2019-03-21/35884.html', '◎译\u3000\u3000名\u3000骡子/毒行侠(港)/赌命运转手(台)\r\n◎片\u3000\u3000名\u3000The Mule\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000美国\r\n◎类\u3000\u3000别\u3000剧情/悬疑/惊悚/犯罪\r\n◎语\u3000\u3000言\u3000英语\r\n◎字\u3000\u3000幕\u3000中', '\r\n◎简\u3000\u3000介\xa0', 'magnet:?xt=urn:btih:CUSRCUJFOHDR7ODDHBI5P3UYN3N66I4S&dn=lz%2e1080p%2eBD%e4%b8%ad%e8%8b%b1%e5%8f%8c%e'), ('比悲伤更悲伤的故事2009韩版', 'http://www.6vhao.tv/dy3/2019-03-20/35883.html', '◎译\u3000\u3000名\u3000比悲伤更悲伤的故事\r\n◎片\u3000\u3000名\u3000슬픔보다 더 슬픈 이야기\r\n◎年\u3000\u3000代\u30002009\r\n◎产\u3000\u3000地\u3000韩国\r\n◎类\u3000\u3000别\u3000爱情\r\n◎语\u3000\u3000言\u3000韩语\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u30002009', '', 'magnet:?xt=urn:btih:BWL5X364OBR7IV6PNS2KKUQPQ4OY52AV&dn=%e6%af%94%e6%82%b2%e4%bc%a4%e6%9b%b4%e6%82%b'), ('格斗吧', 'http://www.6vhao.tv/dy2/2019-03-20/35882.html', '◎译\u3000\u3000名\u3000入铁笼/格斗吧/We Are Legends\r\n◎片\u3000\u3000名\u3000入�F�\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000香港\r\n◎类\u3000\u3000别\u3000动作\r\n◎语\u3000\u3000言\u3000粤语\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u3000', '◎简\u3000\u3000介', 'None'), ('大路朝天', 'http://www.6vhao.tv/jddy/2019-03-20/35881.html', '◎译\u3000\u3000名\u3000The Connection\r\n◎片\u3000\u3000名\u3000大路朝天\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000剧情\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期\u3000201', '\u3000\u3000《大路朝天》以四川公路建设为切口，以成雅高速、雅西高速、雅康高速建设为题材，通过讲述祖孙三代路桥工人伴随改革开放40年经历的命运和情感故事，折射出时代发展与变迁。', 'None'), ('怪兽应变', 'http://www.6vhao.tv/dy6/2019-03-20/35879.html', '◎译\u3000\u3000名\u3000怪兽应变 \r\n◎片\u3000\u3000名\u3000Chimera Strain \r\n◎年\u3000\u3000代\u30002018 \r\n◎产\u3000\u3000地\u3000美国 \r\n◎类\u3000\u3000别\u3000剧情/科幻/惊悚 \r\n◎语\u3000\u3000言\u3000英语 \r\n◎字\u3000\u3000幕\u3000中英双字 \r', '◎简\u3000\u3000介', 'None'), ('最后一人', 'http://www.6vhao.tv/dy2/2019-03-19/35875.html', '◎译\u3000\u3000名\u3000最后一人\r\n◎片\u3000\u3000名\u3000Numb, at the Edge of the End\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000阿根廷/加拿大\r\n◎类\u3000\u3000别\u3000剧情/动作/科幻\r\n◎语\u3000\u3000言\u3000英语\r', '\r\n◎简\u3000\u3000介\xa0', 'magnet:?xt=urn:btih:OJ55C7A32FZH23LMKIOG6KZ2UCDF6AJ5&dn=%e6%9c%80%e5%90%8e%e4%b8%80%e4%ba%ba%2e720p%'), ('名侦探柯南：零的执行人', 'http://www.6vhao.tv/dy4/2018-08-30/34604.html', '◎译\u3000\u3000名\u3000名侦探柯南：零的执行人/名侦探柯南：零之执行人/名侦探柯南2018\r\n◎片\u3000\u3000名\u3000名探�丧偿圣� ゼロの�绦腥�\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000日本\r\n◎类\u3000\u3000别\u3000动画/悬疑\r\n◎', '◎简\u3000\u3000介\r\n\u3000\u3000一场大规模的恐怖袭击，一个牵扯无数内幕的神秘组织，这个关乎整个东京的可怕计划即将拉开帷幕…首脑云集的东京峰会举办在即，会场突然发生超大规模的爆炸事件，不仅在现场发现行踪诡异的安室透，', 'magnet:?xt=urn:btih:SYK3XF2PKG3QVMZTLC5P2E7H3TEBTDZ4&dn=%e5%90%8d%e4%be%a6%e6%8e%a2%e6%9f%af%e5%8d%9'), ('库尔斯克', 'http://www.6vhao.tv/jddy/2019-03-14/35848.html', '\r\n◎简\u3000\u3000介\xa0', '\u3000\u3000《库尔斯克》的故事聚焦2000年俄罗斯核潜艇“库尔斯克”沉没事件。彼时进行作战训练的库尔斯克号艇内鱼雷自爆，118位船员全部罹难。事件也成了历史上最严重的潜水艇事故。\r\n俄罗斯库尔斯克号核潜艇是当', 'magnet:?xt=urn:btih:JG6QMLHQZ6IVOX4UWWYHSVTIED4WO3UU&dn=%e5%ba%93%e5%b0%94%e6%96%af%e5%85%8b%2e1080p'), ('蓝色生死恋', 'http://www.6vhao.tv/dy3/2019-03-19/35874.html', '◎译\u3000\u3000名\u3000蓝色生死恋\r\n◎片\u3000\u3000名\u3000蓝色生死恋\r\n◎年\u3000\u3000代\u30002019\r\n◎产\u3000\u3000地\u3000中国大陆\r\n◎类\u3000\u3000别\u3000爱情\r\n◎语\u3000\u3000言\u3000汉语普通话\r\n◎字\u3000\u3000幕\u3000中字\r\n◎片\u3000\u3000长\u3000104分钟\r\n◎上映日', '◎简\u3000\u3000介', 'None'), ('钢铁飞龙之奥特曼崛起', 'http://www.6vhao.tv/dy4/2019-03-18/35873.html', '\u3000\u3000创世晶石危机一触即发，为了阻止地球毁灭，奥特曼选择了看似平凡的小男孩乐乐作为自己的人间体，面对重重挑战，原本调皮捣蛋的小屁孩在奥特曼的引导下，成为拯救地球的关键人物，而奥特曼超能力的秘密也逐渐被揭', '', 'None'), ('伦敦战场', 'http://www.6vhao.tv/jddy/2019-03-06/35813.html', '◎译\u3000\u3000名\u3000伦敦场地\r\n◎片\u3000\u3000名\u3000London Fields\r\n◎年\u3000\u3000代\u30002018\r\n◎产\u3000\u3000地\u3000美国\r\n◎类\u3000\u3000别\u3000悬疑 / 惊悚 / 犯罪\r\n◎语\u3000\u3000言\u3000英语\r\n◎字\u3000\u3000幕\u3000中字\r\n◎上映日期', '◎简\u3000\u3000介\xa0', 'magnet:?xt=urn:btih:PP2MLSMGNWJCJ4XU5QC7S67QIGRIBIFN&dn=%e4%bc%a6%e6%95%a6%e6%88%98%e5%9c%ba%2e720p%'))

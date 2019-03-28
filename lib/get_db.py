@@ -26,13 +26,13 @@ class GetDB(object):
             logging.error(str(e))
             self.conn.rollback()
 
-    def check_title(self, name):
-        result = self.query("select * from user where name = '{0}';".format(name))
+    def check_movie(self, name):
+        result = self.query("select * from movie where name = '{0}';".format(name))
         return True if result else False
 
     def check_all(self):
-        result = self.query("select * from title;")
+        result = self.query("select * from movie;")
         return result
 
-    def add_title(self, name, url):
-        self.exec("insert into title(name, url) values('{0}', '{1}');".format(name, url))
+    def add_movie(self, name, url, title, descp, magnet_url):
+        self.exec("insert into movie(name, url, title, descp,magnet_url) values('{0}', '{1}', '{2}', '{3}', '{4}');".format(name, url, title, descp, magnet_url))

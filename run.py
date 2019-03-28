@@ -2,6 +2,7 @@
 
 from lib.get_db import *
 from lib.req_url import *
+from config.config import *
 
 class Run(object):
     def __init__(self):
@@ -12,9 +13,10 @@ class Run(object):
         for i in title_dict:
             name = i
             url = title_dict[name]
-            self.db.add_title(name, url)
+            if not self.db.check_title(name):
+                self.db.add_title(name, url)
         db_title = self.db.check_all()
-        loggging.info(db_title)
+        logging.info(db_title)
 
 def main():
     Action = Run()
