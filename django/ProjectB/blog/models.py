@@ -126,6 +126,8 @@ class Movie(models.Model):
     title = models.CharField(max_length=100, blank=True, null=True)
     descp = models.CharField(max_length=100, blank=True, null=True)
     magnet_url = models.CharField(max_length=100, blank=True, null=True)
+    title_jpg_url = models.CharField(max_length=50, blank=True, null=True)
+    movie_jpg_url = models.CharField(max_length=50, blank=True, null=True)
     id = models.IntegerField(primary_key=True)
 
     class Meta:
@@ -136,6 +138,8 @@ class Movie(models.Model):
 class Title(models.Model):
     name = models.CharField(max_length=50, blank=True, null=True)
     url = models.CharField(max_length=50, blank=True, null=True)
+    title_url = models.CharField(max_length=50, blank=True, null=True)
+    movie_url = models.CharField(max_length=50, blank=True, null=True)
     id = models.IntegerField(primary_key=True)
 
     class Meta:

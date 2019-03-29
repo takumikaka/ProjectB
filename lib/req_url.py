@@ -40,14 +40,20 @@ def get_movie_jpglist(url_movie):
     return movie_jpg_list
 
 def get_movie_titlejpg(url_movie):
-    movie_jpg_list = get_movie_jpglist(url_movie)
-    title_jpg_url = replace_str(str(movie_jpg_list[0]))
-    return title_jpg_url
+    try:
+        movie_jpg_list = get_movie_jpglist(url_movie)
+        title_jpg_url = replace_str(str(movie_jpg_list[0]))
+        return title_jpg_url
+    except Exception as e:
+        logging.error(str(e))
 
 def get_movie_infojpg(url_movie):
-    movie_jpg_list = get_movie_jpglist(url_movie)
-    info_jpg_url = replace_str(str(movie_jpg_list[1]))
-    return info_jpg_url
+    try:
+        movie_jpg_list = get_movie_jpglist(url_movie)
+        info_jpg_url = replace_str(str(movie_jpg_list[1]))
+        return info_jpg_url
+    except Exception as e:
+        logging.error(str(e))
 
 def get_movie_conlist(url_movie):
     soup = req_movie(url_movie)
