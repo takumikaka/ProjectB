@@ -6,6 +6,13 @@ import requests
 sys.path.append("..")
 from config.config import *
 
+
+
+def replace_str(str):
+    str1 = str.replace('<img alt="" src="', "")
+    str2 = str1.replace('"/>', '')
+    return str2
+
 def req_url():
     resp1 = requests.get(url_home)
     resp1.encoding = "gb2312"
@@ -23,6 +30,24 @@ def req_movie(url_movie):
     resp3.encoding = "gb2312"
     soup = BeautifulSoup(resp3.text, "html.parser")
     return soup
+
+def get_movie_jpglist(url_movie):
+    soup = req_movie(url_movie)
+    tags_list = list(soup.find(id="text").find_all("img"))
+    movie_jpg_list = []
+    for data in tags_list:
+        movie_jpg_list.append(data)
+    return movie_jpg_list
+
+def get_movie_titlejpg(url_movie):
+    movie_jpg_list = get_movie_jpglist(url_movie)
+    title_jpg_url = replace_str(str(movie_jpg_list[0]))
+    return title_jpg_url
+
+def get_movie_infojpg(url_movie):
+    movie_jpg_list = get_movie_jpglist(url_movie)
+    info_jpg_url = replace_str(str(movie_jpg_list[1]))
+    return info_jpg_url
 
 def get_movie_conlist(url_movie):
     soup = req_movie(url_movie)

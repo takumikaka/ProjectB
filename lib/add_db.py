@@ -23,9 +23,11 @@ class AddDB(object):
             movie_desc = get_movie_desc(movie_url)
             movie_magnetlist = get_movie_ed2klist(movie_url)
             movie_magnet = self.exec_list.get_magnet(movie_magnetlist)
-            log_info(movie_name, movie_url, movie_title, movie_desc, movie_magnet)
+            movie_title_jpg = get_movie_titlejpg(movie_url)
+            movie_info_jpg = get_movie_infojpg(movie_url)
+            log_info(movie_name, movie_url, movie_title, movie_desc, movie_magnet, movie_title_jpg, movie_info_jpg)
             if not self.get_db.check_movie(movie_name):
-                self.get_db.add_movie(movie_name, movie_url, movie_title, movie_desc, movie_magnet)
+                self.get_db.add_movie(movie_name, movie_url, movie_title, movie_desc, movie_magnet, movie_title_jpg, movie_info_jpg)
 
     def run(self):
         self.get_movie_cont()

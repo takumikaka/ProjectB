@@ -34,5 +34,5 @@ class GetDB(object):
         result = self.query("select * from movie;")
         return result
 
-    def add_movie(self, name, url, title, descp, magnet_url):
-        self.exec("insert into movie(name, url, title, descp,magnet_url) values('{0}', '{1}', '{2}', '{3}', '{4}');".format(name, url, title, descp, magnet_url))
+    def add_movie(self, name, url, title, descp, magnet_url, title_jpg_url, movie_jpg_url):
+        self.exec("insert into movie(name, url, title, descp, magnet_url, title_jpg_url, movie_jpg_url) values('{0}', '{1}', '{2}', '{3}', '{4}', '{5}', '{6}');".format(name, url, title, descp, magnet_url, title_jpg_url, movie_jpg_url))
