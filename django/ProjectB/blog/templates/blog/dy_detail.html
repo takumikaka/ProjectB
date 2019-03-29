@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %} blog titles {% endblock %}
+
+{% block content %}
+<div class="row text-center vertical-middlw-sm">
+    <h1>{{article.name}}</h1>
+</div>
+<div class="row">
+    <div class="col-xs-12 col-md-8">
+        <p class="text-center">
+            <p>标题</p><span>{{article.title}}</span> 
+        </p>
+        <div>
+            <p>简介</p>{{article.descp}}
+        </div>
+        <div>
+            <p>下载链接</p>{{article.magnet_url}}
+        </div>
+    </div>
+    <div class="col-xs-6 col-md-4">
+        <h2></h2>
+        <p></p>
+        <img width="200px"
+             src="">
+    </div>
+</div>
+{% endblock %}
