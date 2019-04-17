@@ -56,6 +56,7 @@ def get_movie_infojpg(url_movie):
         logging.error(str(e))
 
 def get_movie_conlist(url_movie):
+    logging.info(url_movie)
     soup = req_movie(url_movie)
     tags_list = list(soup.find(id="text").find_all("p"))
     movie_cont_list = []
